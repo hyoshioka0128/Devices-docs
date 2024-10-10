@@ -22,9 +22,11 @@ As part of our commitment to superior service and support, we're continuing to e
 
 The growing ASP network consists of more than 160 locations.  
 
-### Americas
+<details>
 
-#### Canada
+  <summary>Americas</summary>
+
+### Canada
 
 - [CompuCom](https://www4.compucom.com/compucom-canada)
 - [Compugen](https://www.compugen.com/)
@@ -36,7 +38,7 @@ The growing ASP network consists of more than 160 locations.
 - [TD SYNNEX](https://www.synnexcorp.com/ca/)
 - [WBM Technologies](https://www.wbm.ca/)
 
-#### United States
+### United States
 
 - [Applied Data Technologies](https://applieddatatech.com/)
 - [Checkpoint Services](https://www.checkpoint.com/)
@@ -56,7 +58,7 @@ The growing ASP network consists of more than 160 locations.
 - [MCPC](https://www.mcpc.com/)
 - [MicroK12](https://microk12.com/)
 - [Mobile ME IT](https://mobilemeit.com/)
-- [Netsync Network Solutions ](https://www.netsync.com/)
+- [Netsync Network Solutions](https://www.netsync.com/)
 - [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/)
 - [ProTech Computer Systems, Inc](https://www.protsys.com/)
 - [Sterling](https://sterling.com/)
@@ -64,8 +66,11 @@ The growing ASP network consists of more than 160 locations.
 - [Trafera](https://www.trafera.com/)
 - [UDT](https://udtonline.com/)
 - [Zones](https://www.zones.com/site/home/index.html)
+  
+</details>
 
-### Europe
+<details>
+  <summary>Europe</summary>
 
 ### Austria
 
@@ -73,20 +78,20 @@ The growing ASP network consists of more than 160 locations.
 - [CLS](https://www.cls.at/)
 - [Mobiletouch Austria GmbH](https://mobiletouch.at/)
 
-#### Belgium
+### Belgium
 
 - [The Rent Company](https://rentcompany.be/)
 
-#### Denmark
+### Denmark
 
-- [Atea A/S ](https://www.atea.dk/)
+- [Atea A/S](https://www.atea.dk/)
 
-#### France
+### France
 
 - [D4B](https://digital4business.fr/)
 - [Econocom](https://www.econocom.com/)
 
-#### Germany
+### Germany
 
 - [API](https://www.api.de)
 - [Bechtle](https://www.bechtle.com/)
@@ -96,16 +101,16 @@ The growing ASP network consists of more than 160 locations.
 - [Ratiodata](https://www.ratiodata.de/)
 - [Think About It](https://think-about.it/)
 
-#### Netherlands
+### Netherlands
 
 - [ARP Nederland B.V](https://www.arpsolutions.nl/)
 - [The Rent Company](https://rentcompany.nl/)
 
-#### Spain
+### Spain
 
 - [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface)
 
-#### United Kingdom
+### United Kingdom
 
 - [Academia Ltd](https://academia.co.uk/)
 - [Carillion](https://www.carillion.com/)
@@ -122,9 +127,13 @@ The growing ASP network consists of more than 160 locations.
 - [XMA](https://www.xma.co.uk/)
 - [Zones](https://uk.zones.com/)
 
-### Asia Pacific
+</details>
 
-#### Australia
+<details>
+
+  <summary>Asia Pacific</summary>
+
+### Australia
 
 - [ASI solutions](https://www.asi.com.au/)
 - [Comp Now](https://www.compnow.com.au/)
@@ -133,22 +142,22 @@ The growing ASP network consists of more than 160 locations.
 - [Stott & Hoare](https://www.stotthoare.com.au/)
 - [Winthrop](https://www.winaust.com.au/)
 
-#### China
+### China
 
 - [Digital China](https://www.digitalchina.com/)
 - [Double Rise](https://www.doublerise.com/Microsoft.html)
 
-#### Japan
+### Japan
 
 - [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/)
 - [GSS](https://www.gssltd.co.jp/surface/)
 
-#### New Zealand
+### New Zealand
 
 - [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)
 - [The Laptop Company](https://www.laptop.co.nz/)
 
-#### South Korea
+### South Korea
 
 - [Gownet Co., Ltd](https://surface.gownet.com/)
 
@@ -156,3 +165,5 @@ The growing ASP network consists of more than 160 locations.
 
 - [BYTE International](https://www.bestyield.com/)
 - [Hope Computers](https://asp.hope.tw/)
+  
+</details>
