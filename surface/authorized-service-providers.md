@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 10/04/2024
+ms.date: 10/10/2024
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -20,7 +20,8 @@ As part of our commitment to superior service and support, we're continuing to e
 
 ## Global ASP network
 
-The growing ASP network consists of more than 160 locations.  
+The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
+
 
 <details>
 
