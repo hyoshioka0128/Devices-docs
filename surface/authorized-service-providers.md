@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 10/10/2024
+ms.date: 10/18/2024
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -16,12 +16,18 @@ appliesto:
 
 # Surface repair by Microsoft authorized service providers
 
-As part of our commitment to superior service and support, we're continuing to expand our network of authorized service providers (ASPs). ASPs work closely with Microsoft to help resolve issues that might occur with your Microsoft devices. ASPs perform repairs on behalf of Microsoft, have direct access to Microsoft support, and use genuine Microsoft parts.
+We're committed to delivering exceptional service and support by continuously expanding our network of authorized service providers (ASPs). These trusted partners work directly with Microsoft to resolve issues with your Microsoft devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
+
+## How it works
+
+Depending on your needs, ASP technicians provide one of the following services:
+
+- **Onsite repair:** A skilled technician will come to your location to evaluate and repair the device, minimizing downtime.  
+- **Depot repair:** The ASP collects the device and transports it to their repair center, where it is thoroughly inspected and repaired by an expert technician. Once the repair is complete, the device is returned to your location.
 
 ## Global ASP network
 
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
-
 
 <details>
 
