@@ -44,15 +44,15 @@ The Americas provide extensive repair services with ASPs available in Canada and
 
 | **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
 |-------------------------------------|-------------------|------------------|
-| CompuCom                            |                   | ✔                |
-| Compugen                            |                   | ✔                |
+| CompuCom                            | ✔                 | ✔                |
+| Compugen                            | ✔                  | ✔                |
 | Converge Technology Solutions       | ✘                 | ✔                |
-| Coreio                              |                   | ✔                |
-| Insight                             |                   | ✔                |
-| IT Mission                          |                   | ✔                |
+| Coreio                              | ✔                  | ✔                |
+| Insight                             | ✔                 | ✔                |
+| IT Mission                          | ✘                   | ✔                |
 | Microserve                          |                   | ✔                |
-| TD SYNNEX                           |                   | ✔                |
-| WBM Technologies                    |                   | ✔                |
+| TD SYNNEX CA                          |  ✔                 | ✔                |
+| WBM Technologies                    |  ✘                 | ✔                |
 
 ### United States
 
@@ -62,8 +62,8 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | Checkpoint Services                 | ✔                 |                  |
 | CompuCom                            |                   | ✔                |
 | Compugen                            |                   | ✔                |
-| Connection                          |                   | ✔                |
-| Converge Technology Solutions       |                   | ✔                |
+| Connection                          |  ✘                 | ✔                |
+| Converge Technology Solutions       |  ✘                 | ✔                |
 | Coreio                              |                   | ✔                |
 | DHE                                 |                   | ✔                |
 | DI Technology Group Inc             |                   | ✔                |
@@ -74,13 +74,13 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | Integration Technologies Group      |                   | ✔                |
 | IT savvy                            |                   | ✔                |
 | MCPC                                |                   | ✔                |
-| MicroK12                            |                   | ✔                |
+| MicroK12                            | ✘                  | ✔                |
 | Mobile ME IT                        |                   | ✔                |
 | Netsync Network Solutions           |                   | ✔                |
 | New York Computer Help              |                   | ✔                |
-| ProTech Computer Systems, Inc       |                   | ✔                |
+| ProTech Computer Systems, Inc       |    ✘               | ✔                |
 | Sterling                            |                   | ✔                |
-| TD SYNNEX                           |                   | ✔                |
+| TD SYNNEX US                           |  ✘                 | ✔                |
 | Trafera                             |                   | ✔                |
 | UDT                                 |                   | ✔                |
 | Zones                               |                   | ✔                |
@@ -88,7 +88,6 @@ The Americas provide extensive repair services with ASPs available in Canada and
 </details>
 
 ---
-
 <details id="europe">
   <summary>Europe</summary>
 
@@ -100,7 +99,51 @@ Europe offers a range of ASPs that cater to local and cross-border customers, pr
 |--------------------------------------|-------------------|------------------|
 | Bechtle GmbH IT Systemhaus           |                   | ✔                |
 | CLS                                  |                   | ✔                |
-| Mobiletouch Austria GmbH             |                   | ✔                |
+| Mobiletouch Austria GmbH             | ✘                 | ✔                |
+
+### Belgium
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| The Rent Company                     |                   | ✔                |
+
+### Denmark
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Atea A/S                             |                   | ✔                |
+
+### France
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| D4B                                  |                   | ✔                |
+| Econocom                             |                   | ✔                |
+
+### Germany
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| API                                  |                   | ✔                |
+| Bechtle                              |                   | ✔                |
+| Computacenter                        |                   | ✔                |
+| Hemmersbach                          |                   | ✔                |
+| MetaComp                             |                   | ✔                |
+| Ratiodata                            |                   | ✔                |
+| Think About It                       |                   | ✔                |
+
+### Netherlands
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| ARP Nederland B.V                    |                   | ✔                |
+| The Rent Company                     |                   | ✔                |
+
+### Spain
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Valorista                            |                   | ✔                |
 
 ### United Kingdom
 
@@ -139,11 +182,38 @@ ASPs in the Asia Pacific region offer a mix of onsite and depot services, meetin
 | Stott & Hoare                        |                   | ✔                |
 | Winthrop                             |                   | ✔                |
 
+### China
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Digital China                        |                   | ✔                |
+| Double Rise                          |                   | ✔                |
+
 ### Japan
 
 | **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
 |--------------------------------------|-------------------|------------------|
 | Bic Camera                           |                   | ✔                |
 | GSS                                  |                   | ✔                |
+
+### New Zealand
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Service Plus Group Limited           |                   | ✔                |
+| The Laptop Company                   |                   | ✔                |
+
+### South Korea
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Gownet Co., Ltd                      |                   | ✔                |
+
+### Taiwan
+
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| BYTE International                   |                   | ✔                |
+| Hope Computers                       |                   | ✔                |
 
 </details>
