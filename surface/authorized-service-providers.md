@@ -42,44 +42,48 @@ The Americas provide extensive repair services with ASPs available in Canada and
 
 ### Canada
 
-- [CompuCom](https://www4.compucom.com/compucom-canada)
-- [Compugen](https://www.compugen.com/)
-- [Converge Technology Solutions](https://convergetp.com/)
-- [Coreio](https://www.coreio.com/)
-- [Insight](https://ca.insight.com/en_CA/home.html)
-- [IT Mission](https://itmission.com/)
-- [Microserve](https://www.microserve.ca/)
-- [TD SYNNEX](https://www.synnexcorp.com/ca/)
-- [WBM Technologies](https://www.wbm.ca/)
+| **Authorized Service Provider**     | **Depot repair** | **Onsite repair** |
+|-------------------------------------|------------------|-------------------|
+| CompuCom                            | &#10004;                |                   |
+| Compugen                            | &#10004;                |                   |
+| Converge Technology Solutions       | &#10004;                |                   |
+| Coreio                              | &#10004;                |                   |
+| Insight                             | &#10004;                |                   |
+| IT Mission                          | &#10004;                |                   |
+| Microserve                          | &#10004;                |                   |
+| TD SYNNEX                           | &#10004;                |                   |
+| WBM Technologies                    | &#10004;                |                   |
 
 ### United States
 
-- [Applied Data Technologies](https://applieddatatech.com/)
-- [Checkpoint Services](https://www.checkpoint.com/)
-- [CompuCom](https://www.compucom.com/)
-- [Compugen](https://www.compugen.us/)
-- [Connection](https://www.connection.com/)
-- [Converge Technology Solutions](https://convergetp.com/digital-workplace/)
-- [Coreio](https://www.coreio.com/)
-- [DHE](https://www.dhecs.com/)
-- [DI Technology Group Inc](https://store.dataimpressions.com/)
-- [DXC Technology](https://dxc.com/us)
-- [FedEx](https://www.fedex.com/global/choose-location.html)
-- [GlobalAsset](https://globalassetonline.com/)
-- [Insight](https://www.insight.com/)
-- [Integration Technologies Group (U.S. Federal Government IT Services)](https://www.itgonline.com/)
-- [IT savvy](https://www.itsavvy.com/)
-- [MCPC](https://www.mcpc.com/)
-- [MicroK12](https://microk12.com/)
-- [Mobile ME IT](https://mobilemeit.com/)
-- [Netsync Network Solutions](https://www.netsync.com/)
-- [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/)
-- [ProTech Computer Systems, Inc](https://www.protsys.com/)
-- [Sterling](https://sterling.com/)
-- [TD SYNNEX](https://www.synnexcorp.com/us/)
-- [Trafera](https://www.trafera.com/)
-- [UDT](https://udtonline.com/)
-- [Zones](https://www.zones.com/site/home/index.html)
+| **Authorized Service Provider**     | **Depot repair** | **Onsite repair** |
+|-------------------------------------|------------------|-------------------|
+| Applied Data Technologies           | &#10004;                |                   |
+| Checkpoint Services                 |                  | &#10004;                 |
+| CompuCom                            | &#10004;                |                   |
+| Compugen                            | &#10004;                |                   |
+| Connection                          | &#10004;                |                   |
+| Converge Technology Solutions       | &#10004;                |                   |
+| Coreio                              | &#10004;                |                   |
+| DHE                                 | &#10004;                |                   |
+| DI Technology Group Inc             | &#10004;                |                   |
+| DXC Technology                      | &#10004;                |                   |
+| FedEx                               | &#10004;                |                   |
+| GlobalAsset                         | &#10004;                |                   |
+| Insight                             | &#10004;                |                   |
+| Integration Technologies Group      | &#10004;                |                   |
+| IT savvy                            | &#10004;                |                   |
+| MCPC                                | &#10004;                |                   |
+| MicroK12                            | &#10004;                |                   |
+| Mobile ME IT                        | &#10004;                |                   |
+| Netsync Network Solutions           | &#10004;                |                   |
+| New York Computer Help              | &#10004;                |                   |
+| ProTech Computer Systems, Inc       | &#10004;                |                   |
+| Sterling                            | &#10004;                |                   |
+| TD SYNNEX                           | &#10004;                |                   |
+| Trafera                             | &#10004;                |                   |
+| UDT                                 | &#10004;                |                   |
+| Zones                               | &#10004;                |                   |
 
 </details>
 
@@ -92,58 +96,28 @@ Europe offers a range of ASPs that cater to local and cross-border customers, pr
 
 ### Austria
 
-- [Bechtle GmbH IT Systemhaus](https://www.bechtle.com/at-en/about-bechtle/company/bechtle-systemhouse-austria)
-- [CLS](https://www.cls.at/)
-- [Mobiletouch Austria GmbH](https://mobiletouch.at/)
-
-### Belgium
-
-- [The Rent Company](https://rentcompany.be/)
-
-### Denmark
-
-- [Atea A/S](https://www.atea.dk/)
-
-### France
-
-- [D4B](https://digital4business.fr/)
-- [Econocom](https://www.econocom.com/)
-
-### Germany
-
-- [API](https://www.api.de)
-- [Bechtle](https://www.bechtle.com/)
-- [Computacenter](https://www.computacenter.com/)
-- [Hemmersbach](https://www.hemmersbach.com/)
-- [MetaComp](https://www.metacomp.de/)
-- [Ratiodata](https://www.ratiodata.de/)
-- [Think About It](https://think-about.it/)
-
-### Netherlands
-
-- [ARP Nederland B.V](https://www.arpsolutions.nl/)
-- [The Rent Company](https://rentcompany.nl/)
-
-### Spain
-
-- [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface)
+| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
+|--------------------------------------|------------------|-------------------|
+| Bechtle GmbH IT Systemhaus           | &#10004;                |                   |
+| CLS                                  | &#10004;                |                   |
+| Mobiletouch Austria GmbH             | &#10004;                |                   |
 
 ### United Kingdom
 
-- [Academia Ltd](https://academia.co.uk/)
-- [Carillion](https://www.carillion.com/)
-- [Centerprise](https://www.centerprise.co.uk/)
-- [CDW](https://www.uk.cdw.com/)
-- [Class Technology Solutions](https://www.easy4u.school/)
-- [Computacenter](https://www.computacenter.com/)
-- [Currys](https://www.currys.co.uk/store-finder)
-- [HybrIT](https://www.hybrit.co.uk/)
-- [DXC Technology (UK)](https://dxc.com/uk/)
-- [Specialist Computer Centre](https://www.scc.com/)
-- [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/)
-- [Westcoast](https://www.westcoast.co.uk/)
-- [XMA](https://www.xma.co.uk/)
-- [Zones](https://uk.zones.com/)
+| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
+|--------------------------------------|------------------|-------------------|
+| Academia Ltd                         | &#10004;                |                   |
+| Carillion                            | &#10004;                |                   |
+| Centerprise                          | &#10004;                |                   |
+| CDW                                  | &#10004;                |                   |
+| Class Technology Solutions           | &#10004;                |                   |
+| Currys                               | &#10004;                |                   |
+| HybrIT                               | &#10004;                |                   |
+| DXC Technology (UK)                  | &#10004;                |                   |
+| TMT First Limited                    | &#10004;                |                   |
+| Westcoast                            | &#10004;                |                   |
+| XMA                                  | &#10004;                |                   |
+| Zones                                | &#10004;                |                   |
 
 </details>
 
@@ -156,36 +130,21 @@ ASPs in the Asia Pacific region offer a mix of onsite and depot services, meetin
 
 ### Australia
 
-- [ASI solutions](https://www.asi.com.au/)
-- [Comp Now](https://www.compnow.com.au/)
-- [JB Hi-Fi](https://www.jbhifi.business/)
-- [KEH Partnership](https://technology.theschoollocker.com.au/)
-- [Stott & Hoare](https://www.stotthoare.com.au/)
-- [Winthrop](https://www.winaust.com.au/)
-
-### China
-
-- [Digital China](https://www.digitalchina.com/)
-- [Double Rise](https://www.doublerise.com/Microsoft.html)
+| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
+|--------------------------------------|------------------|-------------------|
+| ASI Solutions                        | &#10004;                |                   |
+| Comp Now                             | &#10004;                |                   |
+| JB Hi-Fi                             | &#10004;                |                   |
+| KEH Partnership                      | &#10004;                |                   |
+| Stott & Hoare                        | &#10004;                |                   |
+| Winthrop                             | &#10004;                |                   |
 
 ### Japan
 
-- [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/)
-- [GSS](https://www.gssltd.co.jp/surface/)
-
-### New Zealand
-
-- [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)
-- [The Laptop Company](https://www.laptop.co.nz/)
-
-### South Korea
-
-- [Gownet Co., Ltd](https://surface.gownet.com/)
-
-### Taiwan
-
-- [BYTE International](https://www.bestyield.com/)
-- [Hope Computers](https://asp.hope.tw/)
+| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
+|--------------------------------------|------------------|-------------------|
+| Bic Camera                           | &#10004;                |                   |
+| GSS                                  | &#10004;                |                   |
 
 </details>
 
