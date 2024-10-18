@@ -29,9 +29,16 @@ Depending on your needs, ASP technicians provide one of the following services:
 
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
 
-<details>
+- [Americas](#americas)
+- [Europe](#europe)
+- [Asia Pacific](#asia-pacific)
 
+---
+
+<details id="americas">
   <summary>Americas</summary>
+
+The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses. These providers offer onsite and depot repair options.
 
 ### Canada
 
@@ -73,11 +80,15 @@ The growing ASP network consists of more than 160 locations. Select your region 
 - [Trafera](https://www.trafera.com/)
 - [UDT](https://udtonline.com/)
 - [Zones](https://www.zones.com/site/home/index.html)
-  
+
 </details>
 
-<details>
+---
+
+<details id="europe">
   <summary>Europe</summary>
+
+Europe offers a range of ASPs that cater to local and cross-border customers, providing both technical expertise and genuine parts to ensure quality repairs.
 
 ### Austria
 
@@ -136,9 +147,12 @@ The growing ASP network consists of more than 160 locations. Select your region 
 
 </details>
 
-<details>
+---
 
+<details id="asia-pacific">
   <summary>Asia Pacific</summary>
+
+ASPs in the Asia Pacific region offer a mix of onsite and depot services, meeting the needs of both personal and business users across several countries.
 
 ### Australia
 
@@ -168,9 +182,10 @@ The growing ASP network consists of more than 160 locations. Select your region 
 
 - [Gownet Co., Ltd](https://surface.gownet.com/)
 
-#### Taiwan
+### Taiwan
 
 - [BYTE International](https://www.bestyield.com/)
 - [Hope Computers](https://asp.hope.tw/)
-  
+
 </details>
+
