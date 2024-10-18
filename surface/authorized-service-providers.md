@@ -42,48 +42,48 @@ The Americas provide extensive repair services with ASPs available in Canada and
 
 ### Canada
 
-| **Authorized Service Provider**     | **Depot repair** | **Onsite repair** |
-|-------------------------------------|------------------|-------------------|
-| CompuCom                            | &#10004;                |                   |
-| Compugen                            | &#10004;                |                   |
-| Converge Technology Solutions       | &#10004;                |                   |
-| Coreio                              | &#10004;                |                   |
-| Insight                             | &#10004;                |                   |
-| IT Mission                          | &#10004;                |                   |
-| Microserve                          | &#10004;                |                   |
-| TD SYNNEX                           | &#10004;                |                   |
-| WBM Technologies                    | &#10004;                |                   |
+| **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
+|-------------------------------------|-------------------|------------------|
+| CompuCom                            |                   | ✔                |
+| Compugen                            |                   | ✔                |
+| Converge Technology Solutions       | ✘                 | ✔                |
+| Coreio                              |                   | ✔                |
+| Insight                             |                   | ✔                |
+| IT Mission                          |                   | ✔                |
+| Microserve                          |                   | ✔                |
+| TD SYNNEX                           |                   | ✔                |
+| WBM Technologies                    |                   | ✔                |
 
 ### United States
 
-| **Authorized Service Provider**     | **Depot repair** | **Onsite repair** |
-|-------------------------------------|------------------|-------------------|
-| Applied Data Technologies           | &#10004;                |                   |
-| Checkpoint Services                 |                  | &#10004;                 |
-| CompuCom                            | &#10004;                |                   |
-| Compugen                            | &#10004;                |                   |
-| Connection                          | &#10004;                |                   |
-| Converge Technology Solutions       | &#10004;                |                   |
-| Coreio                              | &#10004;                |                   |
-| DHE                                 | &#10004;                |                   |
-| DI Technology Group Inc             | &#10004;                |                   |
-| DXC Technology                      | &#10004;                |                   |
-| FedEx                               | &#10004;                |                   |
-| GlobalAsset                         | &#10004;                |                   |
-| Insight                             | &#10004;                |                   |
-| Integration Technologies Group      | &#10004;                |                   |
-| IT savvy                            | &#10004;                |                   |
-| MCPC                                | &#10004;                |                   |
-| MicroK12                            | &#10004;                |                   |
-| Mobile ME IT                        | &#10004;                |                   |
-| Netsync Network Solutions           | &#10004;                |                   |
-| New York Computer Help              | &#10004;                |                   |
-| ProTech Computer Systems, Inc       | &#10004;                |                   |
-| Sterling                            | &#10004;                |                   |
-| TD SYNNEX                           | &#10004;                |                   |
-| Trafera                             | &#10004;                |                   |
-| UDT                                 | &#10004;                |                   |
-| Zones                               | &#10004;                |                   |
+| **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
+|-------------------------------------|-------------------|------------------|
+| Applied Data Technologies           |                   | ✔                |
+| Checkpoint Services                 | ✔                 |                  |
+| CompuCom                            |                   | ✔                |
+| Compugen                            |                   | ✔                |
+| Connection                          |                   | ✔                |
+| Converge Technology Solutions       |                   | ✔                |
+| Coreio                              |                   | ✔                |
+| DHE                                 |                   | ✔                |
+| DI Technology Group Inc             |                   | ✔                |
+| DXC Technology                      |                   | ✔                |
+| FedEx                               |                   | ✔                |
+| GlobalAsset                         |                   | ✔                |
+| Insight                             |                   | ✔                |
+| Integration Technologies Group      |                   | ✔                |
+| IT savvy                            |                   | ✔                |
+| MCPC                                |                   | ✔                |
+| MicroK12                            |                   | ✔                |
+| Mobile ME IT                        |                   | ✔                |
+| Netsync Network Solutions           |                   | ✔                |
+| New York Computer Help              |                   | ✔                |
+| ProTech Computer Systems, Inc       |                   | ✔                |
+| Sterling                            |                   | ✔                |
+| TD SYNNEX                           |                   | ✔                |
+| Trafera                             |                   | ✔                |
+| UDT                                 |                   | ✔                |
+| Zones                               |                   | ✔                |
 
 </details>
 
@@ -96,28 +96,28 @@ Europe offers a range of ASPs that cater to local and cross-border customers, pr
 
 ### Austria
 
-| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
-|--------------------------------------|------------------|-------------------|
-| Bechtle GmbH IT Systemhaus           | &#10004;                |                   |
-| CLS                                  | &#10004;                |                   |
-| Mobiletouch Austria GmbH             | &#10004;                |                   |
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Bechtle GmbH IT Systemhaus           |                   | ✔                |
+| CLS                                  |                   | ✔                |
+| Mobiletouch Austria GmbH             |                   | ✔                |
 
 ### United Kingdom
 
-| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
-|--------------------------------------|------------------|-------------------|
-| Academia Ltd                         | &#10004;                |                   |
-| Carillion                            | &#10004;                |                   |
-| Centerprise                          | &#10004;                |                   |
-| CDW                                  | &#10004;                |                   |
-| Class Technology Solutions           | &#10004;                |                   |
-| Currys                               | &#10004;                |                   |
-| HybrIT                               | &#10004;                |                   |
-| DXC Technology (UK)                  | &#10004;                |                   |
-| TMT First Limited                    | &#10004;                |                   |
-| Westcoast                            | &#10004;                |                   |
-| XMA                                  | &#10004;                |                   |
-| Zones                                | &#10004;                |                   |
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Academia Ltd                         |                   | ✔                |
+| Carillion                            |                   | ✔                |
+| Centerprise                          |                   | ✔                |
+| CDW                                  |                   | ✔                |
+| Class Technology Solutions           |                   | ✔                |
+| Currys                               |                   | ✔                |
+| HybrIT                               |                   | ✔                |
+| DXC Technology (UK)                  |                   | ✔                |
+| TMT First Limited                    |                   | ✔                |
+| Westcoast                            |                   | ✔                |
+| XMA                                  |                   | ✔                |
+| Zones                                |                   | ✔                |
 
 </details>
 
@@ -130,21 +130,20 @@ ASPs in the Asia Pacific region offer a mix of onsite and depot services, meetin
 
 ### Australia
 
-| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
-|--------------------------------------|------------------|-------------------|
-| ASI Solutions                        | &#10004;                |                   |
-| Comp Now                             | &#10004;                |                   |
-| JB Hi-Fi                             | &#10004;                |                   |
-| KEH Partnership                      | &#10004;                |                   |
-| Stott & Hoare                        | &#10004;                |                   |
-| Winthrop                             | &#10004;                |                   |
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| ASI Solutions                        |                   | ✔                |
+| Comp Now                             |                   | ✔                |
+| JB Hi-Fi                             |                   | ✔                |
+| KEH Partnership                      |                   | ✔                |
+| Stott & Hoare                        |                   | ✔                |
+| Winthrop                             |                   | ✔                |
 
 ### Japan
 
-| **Authorized Service Provider**      | **Depot repair** | **Onsite repair** |
-|--------------------------------------|------------------|-------------------|
-| Bic Camera                           | &#10004;                |                   |
-| GSS                                  | &#10004;                |                   |
+| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
+|--------------------------------------|-------------------|------------------|
+| Bic Camera                           |                   | ✔                |
+| GSS                                  |                   | ✔                |
 
 </details>
-
