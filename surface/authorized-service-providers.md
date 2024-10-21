@@ -25,6 +25,10 @@ Depending on your needs, ASP technicians provide one of the following services:
 - **Onsite repair:** A skilled technician will come to your location to evaluate and repair the device, minimizing downtime.  
 - **Depot repair:** The ASP collects the device and transports it to their repair center, where it is thoroughly inspected and repaired by an expert technician. Once the repair is complete, the device is returned to your location.
 
+### Reseller vs. Non-Reseller ASPs
+
+Non-Reseller ASPs partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
+
 ## Global ASP network
 
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
