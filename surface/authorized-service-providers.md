@@ -27,7 +27,7 @@ Depending on your needs, ASP technicians provide one of the following services:
 
 ### Reseller vs. Non-Reseller ASPs
 
-Non-Reseller ASPs partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
+Non-Reseller ASPs (designated by an asterisk * on this page) partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
 
 ## Global ASP network
 
@@ -65,7 +65,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
 |-------------------------------------|-------------------|------------------|
 | Applied Data Technologies           | ✔                 | ✔                |
-| Checkpoint Services                 | n/a               |                  |
+| Checkpoint Services[*](#reseller-vs-non-reseller-asps)                 | n/a               |                  |
 | CompuCom                            | ✔                 | ✔                |
 | Compugen                            | ✔                 | ✔                |
 | Connection                          | ✘                 | ✔                |
@@ -77,13 +77,13 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | FedEx                               | ✔                 | ✔                |
 | GlobalAsset                         | ✔                 | ✔                |
 | Insight                             | ✔                 | ✔                |
-| Integration Technologies Group      | ✔                 | ✔                |
+| Integration Technologies Group[*](#reseller-vs-non-reseller-asps)      | ✔                 | ✔                |
 | IT savvy                            | ✔                 | ✔                |
 | MCPC                                | ✔                 | ✔                |
 | MicroK12                            | ✘                 | ✔                |
 | Mobile ME IT                        | ✔                 | ✔                |
 | Netsync Network Solutions           | ✔                 | ✔                |
-| New York Computer Help              | ✔                 | ✔                |
+| New York Computer[*](#reseller-vs-non-reseller-asps)              | ✔                 | ✔                |
 | ProTech Computer Systems, Inc       | ✘                 | ✔                |
 | Sterling                            | ✔                 | ✔                |
 | TD SYNNEX US                        | ✘                 | ✔                |
@@ -134,7 +134,7 @@ Europe offers a range of ASPs that cater to local and cross-border customers, pr
 | API                                  | ✔                 | ✔                |
 | Bechtle                              | ✔                 | ✔                |
 | Computacenter                        | ✘                 | ✔                |
-| Hemmersbach                          | n/a               | ✔                |
+| Hemmersbach[*](#reseller-vs-non-reseller-asps)                         | n/a               | ✔                |
 | MetaComp                             | ✔                 | ✔                |
 | Ratiodata                            | ✔                 | ✔                |
 | Think About It                       | ✘                 | ✔                |
@@ -201,13 +201,13 @@ ASPs in the Asia Pacific region offer a mix of onsite and depot services, meetin
 | **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
 |--------------------------------------|-------------------|------------------|
 | Bic Camera                           | n/a               | n/a              |
-| GSS                                  | ✔                 | ✔                |
+| GSS[*](#reseller-vs-non-reseller-asps)                                 | ✔                 | ✔                |
 
 ### New Zealand
 
 | **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
 |--------------------------------------|-------------------|------------------|
-| Service Plus Group Limited           | ✔                 | ✔                |
+| Service Plus Group Limited[*](#reseller-vs-non-reseller-asps)           | ✔                 | ✔                |
 | The Laptop Company                   | ✔                 | ✔                |
 
 ### South Korea
