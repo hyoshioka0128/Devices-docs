@@ -1,5 +1,5 @@
 ---
-title: Surface repair by Microsoft authorized service providers
+title: Surface repair by Microsoft Authorized Service Providers
 description: Discover how Microsoft ASPs offer Surface repairs using genuine parts & direct support, collaborating closely with Microsoft for quality service.
 ms.service: surface
 ms.localizationpriority: medium
@@ -14,9 +14,9 @@ appliesto:
 - Windows 11
 ---
 
-# Surface repair by Microsoft authorized service providers
+# Surface repair by Microsoft Authorized Service Providers
 
-We're committed to delivering exceptional service and support by continuously expanding our network of authorized service providers (ASPs). These trusted partners work directly with Microsoft to resolve issues with your Microsoft devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
+We're committed to delivering exceptional service and support by continuously expanding our network of Authorized Service Providers (ASPs). These trusted partners work directly with Microsoft to resolve issues with your Microsoft devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
 
 ## How it works
 
