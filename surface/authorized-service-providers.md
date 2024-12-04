@@ -187,6 +187,8 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [XMA](https://www.xma.co.uk/)           | ✔                 |
 | [Zones](https://uk.zones.com/)          | --                 |
 
+</details>
+
 ---
 
 <details id="asia-pacific">
@@ -239,3 +241,5 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |----------------------------------------|-------------------|
 | [BYTE International](https://www.bestyield.com/) | ✔|
 | [Hope Computers](https://asp.hope.tw/)| ✔              |
+
+</details>
