@@ -33,6 +33,7 @@ Non-Reseller ASPs (designated by an asterisk * on this page) partner with Resell
 
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
 
+
 <details id="americas">
   <summary>Americas</summary>
 
