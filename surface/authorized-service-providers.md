@@ -35,8 +35,7 @@ The growing ASP network consists of more than 160 locations. Select your region 
 
 ---
 <details id="americas">
-
-### <summary>Americas</summary>
+   <summary>Americas</summary>
 
 The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses.
 
@@ -90,8 +89,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 </details>
 ---
 <details id="europe-middle-east-and-africa-emea">
-
-### <summary>Europe, Middle East, and Africa (EMEA)</summary>
+  <summary>Europe, Middle East, and Africa (EMEA)</summary>
 
 EMEA offers a variety of ASPs supporting local repair services with genuine Microsoft parts.
 
@@ -184,8 +182,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 </details>
 ---
 <details id="asia-pacific">
-
-### <summary>Asia Pacific</summary>
+  <summary>Asia Pacific</summary>
 
 ASPs in the Asia Pacific region offer a mix of onsite services, meeting the needs of both personal and business users across several countries.
 
