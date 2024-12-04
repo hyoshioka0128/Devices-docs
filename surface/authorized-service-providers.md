@@ -33,12 +33,6 @@ Non-Reseller ASPs (designated by an asterisk * on this page) partner with Resell
 
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
 
-- [Americas](#americas)
-- [Europe, Middle East, and Africa (EMEA)](#europe-middle-east-and-africa-emea)
-- [Asia Pacific](#asia-pacific)
-
----
-
 <details id="americas">
   <summary>Americas</summary>
 
@@ -75,7 +69,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [DXC Technology](https://dxc.com/us)                     |  --                  |
 | [FedEx](https://www.fedex.com/global/choose-location.html) |  --              |
 | [GlobalAsset](https://globalassetonline.com/)             |  --                  |
-| Hemmersbach US Ltd|  ✔                 |   
+| Hemmersbach US Ltd|  ✔                 |
 | [Insight](https://www.insight.com/)                      |  --                 |
 | [Integration Technologies Group](https://www.itgonline.com/) | ✔           |
 | [IT savvy](https://www.itsavvy.com/)                     |  --                  |
@@ -92,8 +86,6 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Zones](https://www.zones.com/site/home/index.html)      | --                  |
 
 </details>
-
----
 
 <details id="europe-middle-east-and-africa-emea">
   <summary>Europe, Middle East, and Africa (EMEA)</summary>
@@ -119,8 +111,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
-| - [Atea A/S ](https://www.atea.dk/) | ✔           |
-
+| - [Atea A/S](https://www.atea.dk/) | ✔           |
 
 ### France
 
@@ -188,8 +179,6 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Zones](https://uk.zones.com/)          | --                 |
 
 </details>
-
----
 
 <details id="asia-pacific">
   <summary>Asia Pacific</summary>
