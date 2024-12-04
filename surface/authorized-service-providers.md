@@ -34,195 +34,169 @@ Non-Reseller ASPs (designated by an asterisk * on this page) partner with Resell
 The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
 
 - [Americas](#americas)
-- [Europe](#europe)
+- [Europe, Middle East, and Africa (EMEA)](#europe-middle-east-and-africa-emea)
 - [Asia Pacific](#asia-pacific)
 
 ---
 
-
-
 <details id="americas">
   <summary>Americas</summary>
 
-The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses. These providers offer onsite and depot repair options.
+The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses.
 
 ### Canada
 
-| **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
-|-------------------------------------|-------------------|------------------|
-| CompuCom                            | ✔                 | ✔                |
-| Compugen                            | ✔                 | ✔                |
-| Converge Technology Solutions       | ✘                 | ✔                |
-| Coreio                              | ✔                 | ✔                |
-| Insight                             | ✔                 | ✔                |
-| IT Mission                          | ✘                 | ✔                |
-| Microserve                          | ✔                 | ✔                |
-| TD SYNNEX CA                        | ✔                 | ✔                |
-| WBM Technologies                    | ✘                 | ✔                |
+| **Authorized Service Provider**                 | **Onsite repair** |
+|-------------------------------------------------|-------------------|
+| [CompuCom](https://www4.compucom.com/compucom-canada)   | ✔                 |
+| [Compugen](https://www.compugen.com/)                  | ✔                 |
+| [Converge Technology Solutions](https://convergetp.com/) | ✘                 |
+| [Coreio](https://www.coreio.com/)                      | ✔                 |
+| [Insight](https://ca.insight.com/en_CA/home.html)       | ✔                 |
+| [IT Mission](https://itmission.com/)                   | ✘                 |
+| [Microserve](https://www.microserve.ca/)               | ✔                 |
+| [TD SYNNEX](https://www.synnexcorp.com/ca/)            | ✔                 |
+| [WBM Technologies](https://www.wbm.ca/)                | ✘                 |
 
 ### United States
 
-| **Authorized Service Provider**     | **Onsite repair** | **Depot repair** |
-|-------------------------------------|-------------------|------------------|
-| Applied Data Technologies           | ✔                 | ✔                |
-| Checkpoint Services[*](#reseller-vs-non-reseller-asps)                 | n/a               |                  |
-| CompuCom                            | ✔                 | ✔                |
-| Compugen                            | ✔                 | ✔                |
-| Connection                          | ✘                 | ✔                |
-| Converge Technology Solutions       | ✘                 | ✔                |
-| Coreio                              | ✔                 | ✔                |
-| DHE                                 | ✔                 | ✔                |
-| DI Technology Group Inc             | ✔                 | ✔                |
-| DXC Technology                      | ✔                 | ✔                |
-| FedEx                               | ✔                 | ✔                |
-| GlobalAsset                         | ✔                 | ✔                |
-| Insight                             | ✔                 | ✔                |
-| Integration Technologies Group[*](#reseller-vs-non-reseller-asps)      | ✔                 | ✔                |
-| IT savvy                            | ✔                 | ✔                |
-| MCPC                                | ✔                 | ✔                |
-| MicroK12                            | ✘                 | ✔                |
-| Mobile ME IT                        | ✔                 | ✔                |
-| Netsync Network Solutions           | ✔                 | ✔                |
-| New York Computer[*](#reseller-vs-non-reseller-asps)              | ✔                 | ✔                |
-| ProTech Computer Systems, Inc       | ✘                 | ✔                |
-| Sterling                            | ✔                 | ✔                |
-| TD SYNNEX US                        | ✘                 | ✔                |
-| Trafera                             | ✔                 | ✔                |
-| UDT                                 | ✔                 | ✔                |
-| Zones                               | ✔                 | ✔                |
+| **Authorized Service Provider**                 | **Onsite repair** |
+|-------------------------------------------------|-------------------|
+| [Applied Data Technologies](https://applieddatatech.com/) | ✔                 |
+| [Checkpoint Services](https://www.checkpoint.com/)        | n/a               |
+| [CompuCom](https://www.compucom.com/)                    | ✔                 |
+| [Compugen](https://www.compugen.us/)                     | ✔                 |
+| [Connection](https://www.connection.com/)                | ✘                 |
+| [Converge Technology Solutions](https://convergetp.com/digital-workplace/) | ✘ |
+| [Coreio](https://www.coreio.com/)                        | ✔                 |
+| [DHE](https://www.dhecs.com/)                            | ✔                 |
+| [DI Technology Group Inc](https://store.dataimpressions.com/) | ✔          |
+| [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/)                     | ?                 |
+| [DXC Technology](https://dxc.com/us)                     | ✔                 |
+| [FedEx](https://www.fedex.com/global/choose-location.html) | ✔              |
+| [GlobalAsset](https://globalassetonline.com/)             | ✔                 |
+| [Insight](https://www.insight.com/)                      | ✔                 |
+| [Integration Technologies Group](https://www.itgonline.com/) | ✔           |
+| [IT savvy](https://www.itsavvy.com/)                     | ✔                 |
+| [MCPC](https://www.mcpc.com/)                            | ✔                 |
+| [MicroK12](https://microk12.com/)                        | ✘                 |
+| [Mobile ME IT](https://mobilemeit.com/)                  | ✔                 |
+| [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔ |
+| [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔ |
+| [ProTech Computer Systems, Inc](https://www.protsys.com/) | ✘                |
+| [Sterling](https://sterling.com/)                        | ✔                 |
+| [TD SYNNEX](https://www.synnexcorp.com/us/)              | ✘                 |
+| [Trafera](https://www.trafera.com/)                      | ✔                 |
+| [UDT](https://udtonline.com/)                            | ✔                 |
+| [Zones](https://www.zones.com/site/home/index.html)       | ✔                 |
 
 </details>
 
 ---
 
-<details id="europe">
-  <summary>Europe</summary>
+<details id="europe-middle-east-and-africa-emea">
+  <summary>Europe, Middle East, and Africa (EMEA)</summary>
 
-Europe offers a range of ASPs that cater to local and cross-border customers, providing both technical expertise and genuine parts to ensure quality repairs.
+EMEA offers a variety of ASPs supporting local repair services with genuine Microsoft parts.
 
 ### Austria
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Bechtle GmbH IT Systemhaus           | ✔                 | ✔                |
-| CLS                                  | ✔                 | ✔                |
-| Mobiletouch Austria GmbH             | ✘                 | ✔                |
+| **Authorized Service Provider**                     | **Onsite repair** |
+|-----------------------------------------------------|-------------------|
+| [ACP IT Solutions GMbh](https://www.acp-gruppe.com/de-at/news-und-events/acp-ist-authorized-surface-provider) | ✔ |
+| [Bechtle GmbH IT Systemhaus](https://www.bechtle.com/at-en/about-bechtle/company/bechtle-systemhouse-austria) | ✔ |
+| [CLS](https://www.cls.at/)                          | ✔                 |
+| [Mobiletouch Austria GmbH](https://mobiletouch.at/) | ✘                 |
 
 ### Belgium
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| The Rent Company                     | ✘                 | ✔                |
-
-### Denmark
-
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Atea A/S                             | ✔                 | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [The Rent Company](https://rentcompany.be/) | ?             |
 
 ### France
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| D4B                                  | n/a               | n/a              |
-| Econocom                             | ✔                 | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [D4B](https://digital4business.fr/)    | n/a               |
+| [Econocom](https://www.econocom.com/)  | ✔                 |
 
 ### Germany
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| API                                  | ✔                 | ✔                |
-| Bechtle                              | ✔                 | ✔                |
-| Computacenter                        | ✘                 | ✔                |
-| Hemmersbach[*](#reseller-vs-non-reseller-asps)                         | n/a               | ✔                |
-| MetaComp                             | ✔                 | ✔                |
-| Ratiodata                            | ✔                 | ✔                |
-| Think About It                       | ✘                 | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [API](https://www.api.de)              | ✔                 |
+| [Bechtle](https://www.bechtle.com/)    | ✔                 |
+| [Computacenter](https://www.computacenter.com/) | ✘                 |
+| [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |
+| [Hemmersbach](https://www.hemmersbach.com/) | n/a             |
+| [MetaComp](https://www.metacomp.de/)   | ✔                 |
+| [Ratiodata](https://www.ratiodata.de/) | ✔                 |
+| [Think About It](https://think-about.it/) | ✘              |
 
 ### Netherlands
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| ARP Nederland B.V                    | ✘                 | ✔                |
-| The Rent Company                     | ✘                 | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [ARP Nederland B.V](https://www.arpsolutions.nl/) | ✘            |
+| [The Rent Company](https://rentcompany.nl/) | ✘               |
 
 ### Spain
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Valorista                            | ✔                 | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface) | ✔ |
+
+### Switzerland
+
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [Computacenter AG](https://www.computacenter.com/en-ch/partners/microsoft/microsoft-surface) | ✔ |
+
+### United Arab Emirates (UAE)
+
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [Redington Gulf FZE-HQ](https://www.ensureservices.com/microsoft-authorised-service-provider/) | ✔ |
 
 ### United Kingdom
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Academia Ltd                         | ✘                 | ✔                |
-| Carillion                            | ✔                 | ✔                |
-| Centerprise                          | ✘                 | ✔                |
-| CDW                                  | n/a               | n/a              |
-| Class Technology Solutions           | ✘                 | ✔                |
-| Currys                               | n/a               | n/a              |
-| HybrIT                               | ✔                 | ✔                |
-| DXC Technology (UK)                  | ✔                 | ✔                |
-| TMT First Limited                    | n/a               | ✔                |
-| Westcoast                            | n/a               | ✔                |
-| XMA                                  | ✔                 | ✔                |
-| Zones                                | ✘                 | ✔                |
-
-</details>
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [Academia Ltd](https://academia.co.uk/) | ✘                 |
+| [Carillion](https://www.carillion.com/) | ✔                 |
+| [Centerprise](https://www.centerprise.co.uk/) | ✘              |
+| [CDW](https://www.uk.cdw.com/)          | n/a               |
+| [Class Technology Solutions](https://www.easy4u.school/) | ✘        |
+| [Currys](https://www.currys.co.uk/store-finder) | n/a           |
+| [HybrIT](https://www.hybrit.co.uk/)     | ✔                 |
+| [DXC Technology (UK)](https://dxc.com/uk/) | ✔             |
+| [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | n/a |
+| [Westcoast](https://www.westcoast.co.uk/) | n/a             |
+| [XMA](https://www.xma.co.uk/)           | ✔                 |
+| [Zones](https://uk.zones.com/)          | ✘                 |
 
 ---
 
 <details id="asia-pacific">
   <summary>Asia Pacific</summary>
 
-ASPs in the Asia Pacific region offer a mix of onsite and depot services, meeting the needs of both personal and business users across several countries.
+ASPs in the Asia Pacific region offer a mix of onsite services, meeting the needs of both personal and business users across several countries.
 
 ### Australia
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| ASI Solutions                        | ✔                 | ✔                |
-| Comp Now                             | ✔                 | ✔                |
-| JB Hi-Fi                             | ✔                 | ✔                |
-| KEH Partnership                      | ✘                 | ✔                |
-| Stott & Hoare                        | ✔                 | ✔                |
-| Winthrop                             | ✔                 | ✔                |
-
-### China
-
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Digital China                        | n/a               | n/a              |
-| Double Rise                          | n/a               | ✔                |
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [ASI solutions](https://www.asi.com.au/) | ✔               |
+| [Comp Now](https://www.compnow.com.au/) | ✔               |
+| [JB Hi-Fi](https://www.jbhifi.business/) | ✔               |
+| [KEH Partnership](https://technology.theschoollocker.com.au/) | ✘ |
+| [Stott & Hoare](https://www.stotthoare.com.au/) | ✔         |
+| [Winthrop](https://www.winaust.com.au/) | ✔               |
 
 ### Japan
 
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Bic Camera                           | n/a               | n/a              |
-| GSS[*](#reseller-vs-non-reseller-asps)                                 | ✔                 | ✔                |
-
-### New Zealand
-
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Service Plus Group Limited[*](#reseller-vs-non-reseller-asps)           | ✔                 | ✔                |
-| The Laptop Company                   | ✔                 | ✔                |
-
-### South Korea
-
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| Gownet Co., Ltd                      | ✘                 | ✔                |
-
-### Taiwan
-
-| **Authorized Service Provider**      | **Onsite repair** | **Depot repair** |
-|--------------------------------------|-------------------|------------------|
-| BYTE International                   | ✔                 | ✔                |
-| Hope Computers                       | ✔                 | ✔                |
-
-</details>
-
-
+| **Authorized Service Provider**        | **Onsite repair** |
+|----------------------------------------|-------------------|
+| [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | n/a |
+| [GSS](https://www.gssltd.co.jp/surface/) | ✔              |
