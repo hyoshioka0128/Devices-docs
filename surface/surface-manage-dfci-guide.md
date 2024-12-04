@@ -26,10 +26,8 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ## Prerequisites
 
-- Windows 11 or Windows 10 version 1809 (released November 2018)
-- Devices must be registered with Windows Autopilot via one of the following methods:
-  - [Microsoft Cloud Solution Provider (CSP) partner](https://partner.microsoft.com/membership/cloud-solution-provider)
-  - [Directly from Surface](https://prod.support.services.microsoft.com/supportrequestform/0d8bf192-cab7-6d39-143d-5a17840b9f5f)
+- Windows 11 or Windows 10 version 1809 or later
+- Devices must be registered with Windows Autopilot. To learn more, see [Surface Registration Support for Windows Autopilot](surface-autopilot-registration-support.md).
 
 > [!NOTE]
 > Devices manually or self-registered for Autopilot, such as imported from a CSV file, aren't allowed to use DFCI. By design, DFCI management requires external attestation of the device's commercial acquisition via a Microsoft CSP partner or Surface registration.
@@ -101,7 +99,7 @@ Designed to be used with software-level mobile device management (MDM), DFCI ena
 
 ## Get started
 
-1. Sign in to your tenant at [endpoint.microsoft.com](https://endpoint.microsoft.com).
+1. Sign in to your tenant at [intune.microsoft.com](https://intune.microsoft.com).
 2. In the Microsoft Intune admin center, select **Devices > Configuration profiles > Create profile**.
 3. Under Platform, select **Windows 10 and later**.
 4. Under Profile type, select **Templates** > **Device Firmware Configuration Interface** and then select **Create.**
@@ -147,7 +145,7 @@ When you create a DFCI profile, all configured settings will remain in effect ac
 **To remove DFCI management and return device to factory new state:**
 
 1. Retire the device from Intune:
-   1. In Endpoint Manager at endpoint.microsoft.com, choose **Devices** > **All Devices**.
+   1. In Microsoft Intune at intune.microsoft.com,, choose **Devices** > **All Devices**.
    1. Select the device you want to retire, then choose **Retire/Wipe.**
    To learn more, see [Remove devices by using wipe, retire, or manually unenrolling the device](/mem/intune/remote-actions/devices-wipe).
 2. Delete the Autopilot registration from Intune:

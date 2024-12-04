@@ -15,6 +15,9 @@ manager: frankbu
 
 This article lists the versions of Windows that are supported on the Business and Consumer versions of Microsoft Surface devices, when the devices were released and available for purchase.
 
+> [!IMPORTANT]
+> When Windows 10 reaches end of support (EOS) on October 14, 2025, Microsoft will no longer release security updates, bug fixes, time zone updates, or technical support from Microsoft. To learn more, including transition options for organizations needing more time, see [How to prepare for Windows 10 end of support by moving to Windows 11 today](https://blogs.windows.com/windowsexperience/2024/10/31/how-to-prepare-for-windows-10-end-of-support-by-moving-to-windows-11-today/).
+
 ## Surface Pro
 
 | Device                               | Windows OS                                                                                                          |
@@ -114,4 +117,4 @@ This article lists the versions of Windows that are supported on the Business an
 ## More information
 
 Surface Pro devices are optimized for 64-bit versions of the operating system. On these devices, 32-bit versions of Windows are unsupported. If a 32-bit version of the operating system is installed, it may not start correctly. This may occur if you try to start from external media, such as an attached USB or DVD drive. This may also occur if you try to start to an image that was applied to the local disk.
-For additional information about LTSC support see [Surface device compatibility with Windows 10 Long-Term Servicing Channel (LTSC)](surface-device-compatibility-with-windows-10-ltsc.md).
+For additional information about LTSC support see [Surface device compatibility with Windows Long-Term Servicing Channel (LTSC)](surface-device-compatibility-with-windows-ltsc.md)
