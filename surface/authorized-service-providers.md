@@ -87,7 +87,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Zones](https://www.zones.com/site/home/index.html)      | --                  |
 
 </details>
-<br><br>
+
 <details id="europe-middle-east-and-africa-emea">
   <summary>Europe, Middle East, and Africa (EMEA)</summary>
 
@@ -180,7 +180,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Zones](https://uk.zones.com/)          | --                 |
 
 </details>
-<br><br>
+
 <details id="asia-pacific">
   <summary>Asia Pacific</summary>
 
