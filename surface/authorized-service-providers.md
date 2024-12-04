@@ -35,11 +35,12 @@ The growing ASP network consists of more than 160 locations. Select your region 
 
 ---
 <details id="americas">
-  <summary>Americas</summary>
+
+### <summary>Americas</summary>
 
 The Americas provide extensive repair services with ASPs available in Canada and the United States, supporting both consumers and businesses.
 
-### Canada
+#### Canada
 
 | Authorized Service Provider                 | Onsite repair |
 |-------------------------------------------------|-------------------|
@@ -53,7 +54,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [TD SYNNEX](https://www.synnexcorp.com/ca/)            | --                  |
 | [WBM Technologies](https://www.wbm.ca/)                | ✔                 |
 
-### United States
+#### United States
 
 | Authorized Service Provider                 | Onsite repair |
 |-------------------------------------------------|-------------------|
@@ -89,11 +90,12 @@ The Americas provide extensive repair services with ASPs available in Canada and
 </details>
 ---
 <details id="europe-middle-east-and-africa-emea">
-  <summary>Europe, Middle East, and Africa (EMEA)</summary>
+
+### <summary>Europe, Middle East, and Africa (EMEA)</summary>
 
 EMEA offers a variety of ASPs supporting local repair services with genuine Microsoft parts.
 
-### Austria
+#### Austria
 
 | Authorized Service Provider                     | Onsite repair |
 |-----------------------------------------------------|-------------------|
@@ -102,26 +104,26 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [CLS](https://www.cls.at/)                          | --                 |
 | [Mobiletouch Austria GmbH](https://mobiletouch.at/) | --                 |
 
-### Belgium
+#### Belgium
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [The Rent Company](https://rentcompany.be/) | ?             |
 
-### Denmark
+#### Denmark
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | - [Atea A/S](https://www.atea.dk/) | ✔           |
 
-### France
+#### France
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [D4B](https://digital4business.fr/)    | --               |
 | [Econocom](https://www.econocom.com/)  | ✔                 |
 
-### Germany
+#### Germany
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
@@ -134,32 +136,32 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Ratiodata](https://www.ratiodata.de/) | --                |
 | [Think About It](https://think-about.it/) | --              |
 
-### Netherlands
+#### Netherlands
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [ARP Nederland B.V](https://www.arpsolutions.nl/) | --            |
 | [The Rent Company](https://rentcompany.nl/) | --               |
 
-### Spain
+#### Spain
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface) | ✔ |
 
-### Switzerland
+#### Switzerland
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Computacenter AG](https://www.computacenter.com/en-ch/partners/microsoft/microsoft-surface) | ✔ |
 
-### United Arab Emirates (UAE)
+#### United Arab Emirates (UAE)
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Redington Gulf FZE-HQ](https://www.ensureservices.com/microsoft-authorised-service-provider/) | ✔ |
 
-### United Kingdom
+#### United Kingdom
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
@@ -182,11 +184,12 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 </details>
 ---
 <details id="asia-pacific">
-  <summary>Asia Pacific</summary>
+
+### <summary>Asia Pacific</summary>
 
 ASPs in the Asia Pacific region offer a mix of onsite services, meeting the needs of both personal and business users across several countries.
 
-### Australia
+#### Australia
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
@@ -198,34 +201,34 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [Stott & Hoare](https://www.stotthoare.com.au/) | ✔         |
 | [Winthrop](https://www.winaust.com.au/) | ✔               |
 
-### China
+#### China
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Digital China](https://www.digitalchina.com/) | ✔ |
 | [Double Rise](https://www.doublerise.com/Microsoft.html)| --             |
 
-### Japan
+#### Japan
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | --  |
 | [GSS](https://www.gssltd.co.jp/surface/) | --           |
 
-### New Zealand
+#### New Zealand
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 | [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)|-- |
 | [The Laptop Company](https://www.laptop.co.nz/) | --            |
 
-### South Korea
+#### South Korea
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
 |  [Gownet Co., Ltd](https://surface.gownet.com/) | -- |
 
-### Taiwan
+#### Taiwan
 
 | Authorized Service Provider        | Onsite repair |
 |----------------------------------------|-------------------|
