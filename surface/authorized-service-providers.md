@@ -147,8 +147,8 @@ The growing ASP network consists of more than 160 locations.
 
 #### China
 
-- [Digital China/神州数码](https://www.digitalchina.com/)
-- [Double Rise/倍升互联](https://www.doublerise.com/Microsoft.html)
+- [Digital China (神州数码)](https://www.digitalchina.com/)
+- [Double Rise (倍升互联)](https://www.doublerise.com/Microsoft.html)
 
 #### Japan
 
@@ -166,5 +166,5 @@ The growing ASP network consists of more than 160 locations.
 
 #### Taiwan
 
-- [BYTE International/百事益國際](https://www.bestyield.com/)
-- [Hope Computers/赫普電腦](https://asp.hope.tw/)
+- [BYTE International (百事益國際)](https://www.bestyield.com/)
+- [Hope Computers (赫普電腦)](https://asp.hope.tw/)
