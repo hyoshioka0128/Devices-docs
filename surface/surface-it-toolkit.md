@@ -1,12 +1,12 @@
 ---
 title: Surface IT Toolkit
-description: The new Surface IT Toolkit compiles essential commercial tools in a single application, helping streamline Surface device management for IT admins.
+description: Streamline Surface device management with the Surface IT Toolkit, a comprehensive app for configuration, recovery, and support.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 09/10/2024
+ms.date: 12/10/2024
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -73,6 +73,12 @@ The Managed Devices area displays your selected device models that can be manage
 The Tool Library in the Surface IT Toolkit is a centralized repository that provides IT admins with a suite of tools essential for the configuration and support of Surface devices. This library ensures that the most up-to-date versions of each tool are readily available for deployment. Each tool comes with a "Save Copy" option, allowing IT admins to download and save a copy of the installer for the respective tool. To learn more, see [Surface IT Toolkit Tool Library](surface-it-toolkit-library.md).
 
 ## Release notes
+
+### Version 1.204.139.0
+
+This version of Surface IT Toolkit, released December 5, 2024, includes the following updates:
+
+- Resolved an issue with the **Show files** button.
 
 ### Version 1.198.0
 
