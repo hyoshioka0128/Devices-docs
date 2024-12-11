@@ -59,12 +59,12 @@ landingContent:
     linkLists:
       - linkListType: video
         links:
-         - text: Demystifying AI NPU and Machine Learning within Microsoft Surface
-           url: https://youtu.be/3i8-mougnKo
-         - text: Advanced Security and Management Solutions for Hybrid Work from Microsoft Surface 
-           url: https://youtu.be/UkJDfjkCTK4
-         - text: Built for sustainability - Surface design for a more repairable future
-           url: https://youtu.be/sLalQgxI8Hk
+         - text: Unleashing AI productivity with Surface
+           url: https://youtu.be/qDwWoMEJY_E?si=JTtVsLm1kcSW1KM3
+         - text: Secure your endpoints with Surface 
+           url: https://youtu.be/bjf_emvhF7k?si=iQBAJ_JwEqrTg2no
+         - text: Accelerating real-world AI for today and tomorrow
+           url: https://youtu.be/FCiEXvUCLXo?si=s_MV1b51Q6v6KvI4
 
  
   # Card
