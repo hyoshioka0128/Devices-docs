@@ -50,7 +50,7 @@ Use of the Migration Launcher app on Surface Hub 2S involves significant changes
 - You can also check by validating that Windows 10 [*OS Build 19045.4123*](https://support.microsoft.com/help/5034843) or later is present on the system.
 - Validate that your network can handle a **30 GB download**.
 - Ensure the network you're using doesn't have any other firewalls, blocks, or limitations that would otherwise prevent the download and installation of software onto the Surface Hub 2S devices you intend to migrate.
-    - After migration, **\*.sls.microsoft.com**, **\*.mp.microsoft.com**, **crl.microsoft.com**, and **www.microsoft.com/pki/** need to be accessible for the devices to activate properly.
+    - After migration, **\*.sls.microsoft.com**, **\*.mp.microsoft.com**, **crl.microsoft.com**, and **`www.microsoft.com/pki/\*`** need to be accessible for the devices to activate properly.
 - Confirm IT allows network access to required sites: **\*.devices.microsoft.com** and **download.microsoft.com**. On a separate PC, you can open a command prompt and enter the following commands:
 
     ```cmd
