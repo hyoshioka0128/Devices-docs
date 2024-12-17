@@ -1,12 +1,12 @@
 ---
 title: Surface Management Portal  
-description: Manage, monitor, and maintain Surface devices efficiently with the Surface Management Portal in Microsoft Intune Admin Center. 
+description: Streamline Surface device management and support with the Surface Management Portal, integrated into the Microsoft Intune Admin Center. 
 ms.service: surface  
 ms.localizationpriority: medium  
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 09/16/2024  
+ms.date: 12/17/2024  
 ms.reviewer: rohitmannan  
 manager: frankbu  
 appliesto:  
@@ -28,7 +28,7 @@ With the Surface Management Portal, you can:
 
 ## Video demo
 
-This video provides a comprehensive walkthrough of the Surface Management Portal, highlighting key features such as device management, warranty tracking, support requests, IT tools, and carbon emissions insights:
+This video provides a comprehensive walkthrough of the Surface Management Portal, highlighting key features such as device management, warranty tracking, support requests, IT tools, and carbon emissions insights:<br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=60537474-14d6-4b54-9828-11f9663a3c3d]
 
