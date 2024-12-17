@@ -30,10 +30,6 @@ highlightedContent:
     - title: Surface Hub documentation
       itemType: learn
       url: /surface-hub/index   
-    # Card
-    - title: Surface Duo documentation
-      itemType: learn
-      url: /surface-duo/index  
 
 # conceptualContent section (optional)
 conceptualContent:
@@ -54,7 +50,7 @@ conceptualContent:
           itemType: concept
           text: NFC support in Surface Pro 
 
-        # Card 2
+    # Card 2
     - title: Surface Hub overview
       links:
         - url: /surface-hub/surface-hub-3-whats-new 
@@ -67,20 +63,7 @@ conceptualContent:
           itemType: concept
           text: Surface Hub 3 tech specs
 
-        # Card 3
-    - title: Surface Duo overview
-      links:
-        - url: /surface-duo/surface-duo-manage
-          itemType: concept
-          text: Surface Duo management overview
-        - url:  /surface-duo/surface-duo-secure
-          itemType: concept
-          text: Surface Duo security overview
-        - url:  /surface-duo/surface-duo-2-manage-oemconfig
-          itemType: concept
-          text: Manage OEMConfig on Surface Duo 2
-
-    # Card 4
+    # Card 3
     - title: Surface community
       links:
         - url: https://techcommunity.microsoft.com/t5/Surface-IT-Pro-Blog/bg-p/SurfaceITPro
@@ -90,21 +73,14 @@ conceptualContent:
           itemType: reference
           text: Surface Devices Tech Community
 
-    # Card 5
+    # Card 4
     - title: Surface Hub community
       links:
         - url: https://techcommunity.microsoft.com/t5/surface-hub/bd-p/SurfaceHub
           itemType: reference
           text: Surface Hub Tech Community
 
-    # Card 6
-    - title: Surface Duo community
-      links:
-        - url: https://aka.ms/SurfaceDuoITBlog
-          itemType: reference
-          text: Surface IT Pro Blog
-
-    # Card 7
+    # Card 5
     - title: Surface help
       links:
         - url: https://support.microsoft.com/surface
@@ -114,25 +90,11 @@ conceptualContent:
           itemType: learn
           text: Contact Surface Support for Business and Education customers
 
-    # Card 8
+    # Card 6
     - title: Surface Hub help
       links:
         - url: https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=bb7066fb-e329-c1c0-9c13-8e9949c6a64e&hidden=false
           itemType: learn
           text: Contact Surface Hub Support
 
-    # Card 9
-    - title: Surface Duo help
-      links:
-        - url: https://support.microsoft.com/surface
-          itemType: learn
-          text: Contact Surface Duo Support for end users
-        - url: /surface/contact-surface-business-education-support
-          itemType: learn
-          text: Contact Surface Duo Support for Business and Education customers
-        - url: /dual-screen/android/get-duo-sdk?tabs=windows
-          itemType: learn
-          text: Get the Surface Duo SDK
-        - url: https://www.microsoft.com/download/details.aspx?id=100847
-          itemType: learn
-          text: Download the Surface Duo Emulator
+  
