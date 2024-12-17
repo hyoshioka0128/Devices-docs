@@ -69,6 +69,12 @@ This section includes key tasks to ensure your Surface devices remain compliant,
 - [View carbon emissions for Surface devices](#view-carbon-emissions-for-surface-devices)
 - [Review administrator roles](#review-administrator-roles)
 
+### Video demo: Create service orders and support tickets
+
+This video walks through creating and managing service orders and support requests in the Surface Management Portal, providing visibility into device support activity, warranty details, and service options:<br>
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=59a56707-db5e-41d9-801f-01be44e120f0]
+
 ### Manage Surface device warranty and coverage
 
 Managing the warranty status of each device helps you stay on top of expiring warranties and out-of-coverage devices. The portal lets you quickly view:
