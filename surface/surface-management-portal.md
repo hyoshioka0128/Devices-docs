@@ -26,6 +26,12 @@ With the Surface Management Portal, you can:
 - Centralize Surface-specific device administration in a single environment.
 - Automatically access comprehensive information from your Intune-enrolled Surface devices, which flows into the Surface Management Portal when users sign in for the first time.
 
+## Video demo
+
+This video provides a comprehensive walkthrough of the Surface Management Portal, highlighting key features such as device management, warranty tracking, support requests, IT tools, and carbon emissions insights:
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=60537474-14d6-4b54-9828-11f9663a3c3d]
+
 ## Access Surface Management Portal
 
 ### If you don't have an Intune subscription
