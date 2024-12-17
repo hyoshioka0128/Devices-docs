@@ -1,5 +1,35 @@
 {
     "redirections":  [
+    {
+      "source_path": "surface-duo/surface-duo-2-manage-oemconfig.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-duo-2-manage-oemconfig",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "surface-duo/surface-duo-config-work-profile.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-duo-config-work-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "surface-duo/surface-duo-launcher-config.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-duo-launcher-config",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "surface-duo/surface-duo-manage.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-duo-manage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "surface-duo/surface-duo-secure.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-duo-secure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "surface-duo/surface-lifecycle-android-devices.md",
+      "redirect_url": "/previous-versions/surface-duo/surface-lifecycle-android-devices",
+      "redirect_document_id": false
+    },
         {
             "source_path":  "surface-hub/i-am-done-finishing-your-surface-hub-meeting.md",
             "redirect_url":  "/surface-hub/finishing-your-surface-hub-meeting",
