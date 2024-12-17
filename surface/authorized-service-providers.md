@@ -66,7 +66,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Coreio](https://www.coreio.com/)                        | ✔                 |
 | [DHE](https://www.dhecs.com/)                            | ✔                 |
 | [DI Technology Group Inc](https://store.dataimpressions.com/) |  --           |
-| [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/)                     | ?                 |
+| [Duke Computer Repair]()                     | --                 |
 | [DXC Technology](https://dxc.com/us)                     |  --                  |
 | [FedEx](https://www.fedex.com/global/choose-location.html) |  --              |
 | [GlobalAsset](https://globalassetonline.com/)             |  --                  |
