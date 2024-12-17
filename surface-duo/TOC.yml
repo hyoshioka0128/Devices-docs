@@ -1,32 +1,15 @@
 - name: Surface Duo
   href: index.yml
-  items: 
-    - name: Overview
-      items: 
-        - name: Surface Duo management overview
-          href: surface-duo-manage.md
-        - name: Surface Duo security overview
-          href: surface-duo-secure.md
-          
-    - name: Secure
-      items:
-        - name: Android Enterprise security configuration framework
-          href: /mem/intune/enrollment/android-configuration-framework
-
-    - name: Manage
-      items:
-        - name: Manage OEMConfig on Surface Duo 2
-          href: surface-duo-2-manage-oemconfig.md
-        - name: Configure work profile for Surface Duo
-          href: surface-duo-config-work-profile.md
-        - name: Configure Microsoft Launcher for Surface Duo
-          href: surface-duo-launcher-config.md 
-          
-    - name: Support
-      items: 
-        - name: Contact Surface Duo Support
-          href: /surface/contact-surface-business-education-support
-        - name: Warranty service offerings
-          href: https://www.microsoft.com/surface/business/warranty-protection-plans-and-support
-        - name: Surface Lifecycle for Android-based devices
-          href: surface-lifecycle-android-devices.md
+  items:
+  - name: Overview
+  - name: Secure
+    items:
+    - name: Android Enterprise security configuration framework
+      href: /mem/intune/enrollment/android-configuration-framework
+  - name: Manage
+  - name: Support
+    items:
+    - name: Contact Surface Duo Support
+      href: /surface/contact-surface-business-education-support
+    - name: Warranty service offerings
+      href: https://www.microsoft.com/surface/business/warranty-protection-plans-and-support
