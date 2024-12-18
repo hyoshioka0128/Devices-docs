@@ -22,22 +22,22 @@ We're committed to delivering exceptional service and support by continuously ex
 
 All authorized service providers (ASPs) offer **depot repair**, while some also provide the option for **onsite repair** based on availability and your location:
 
-- **Onsite repair (available at select ASPs):** If available, a skilled technician will come to your location to evaluate and repair the device, minimizing downtime.  
-- **Depot repair (available at all ASPs):** The ASP collects your device and transports it to their repair center, where it is thoroughly inspected and repaired by an expert technician. Once the repair is complete, the device is returned to you.
+- **Onsite repair (available at select ASPs):** If available, a skilled technician comes to your location to evaluate and repair the device, minimizing downtime.  
+- **Depot repair (available at all ASPs):** The ASP collects your device and transports it to their repair center, where it undergoes inspection and repair by an expert technician. Once the repair is complete, the device is returned to you.
 
 ### Reseller vs. Non-Reseller ASPs
 
-Non-Reseller ASPs, as noted on this page, partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
+Non-Reseller ASPs, as noted on this page, partner with Resellers as noncompeting entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
 
 ### Consumer ASPs vs. Commercial ASPs
 
-- **Consumer ASPs** are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices but are primarily oriented toward consumer-grade repairs. These providers may also have limitations in handling large-scale commercial service needs.
+- **Consumer ASPs** are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices but are primarily oriented toward consumer-grade repairs. These providers might also have limitations in handling large-scale commercial service needs.
 
-- **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They may also provide onsite repair options for large-scale deployments or managed service agreements.
+- **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They might also provide onsite repair options for large-scale deployments or managed service agreements.
 
 ## Global ASP network
 
-The growing ASP network consists of more than 160 locations. Select your region to explore available ASPs:
+The growing ASP network consists of over 160 locations and continues to expand as new partners are onboarded. Select your region for available ASPs:
 
 ---
 <details id="americas">
@@ -98,7 +98,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 <details id="europe-middle-east-and-africa-emea">
   <summary>Europe, Middle East, and Africa (EMEA)</summary>
 
-EMEA offers a variety of ASPs supporting local repair services with genuine Microsoft parts.
+EMEA offers many ASPs supporting local repair services with genuine Microsoft parts.
 
 #### Austria
 
@@ -191,7 +191,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 <details id="asia-pacific">
   <summary>Asia Pacific</summary>
 
-ASPs in the Asia Pacific region offer a mix of onsite services, meeting the needs of both personal and business users across several countries.
+ASPs in the Asia Pacific region offer a mix of onsite services, meeting the needs of both personal and business users across multiple regions.
 
 #### Australia
 
