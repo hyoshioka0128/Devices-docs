@@ -53,7 +53,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                  | ✔             |                                       |
 | [Converge Technology Solutions](https://convergetp.com/) | ✔           |                                       |
 | [Coreio](https://www.coreio.com/)                      | ✔             |                                       |
-| [DXC Canada](https://dxc.com/ca/en)|     |     --     |[Non-Reseller ASP](#reseller-vs-non-reseller-asps)|
+| [DXC Canada](https://dxc.com/ca/en)|         --     |[Non-Reseller ASP](#reseller-vs-non-reseller-asps)|
 | [Insight](https://ca.insight.com/en_CA/home.html)       | --            |                                       |
 | [IT Mission](https://itmission.com/)                   | --            |                                       |
 | [Microserve](https://www.microserve.ca/)               | ✔             |                                       |
@@ -103,7 +103,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 
 | Authorized Service Provider                     | Onsite Repair | Notes                                  |
 |-------------------------------------------------|---------------|----------------------------------------|
-| [ACP IT Solutions GMbh](https://www.acp-gruppe.com/de-at/news-und-events/acp-ist-authorized-surface-provider) | ?           |                                       |
+| [ACP IT Solutions GMbh](https://www.acp-gruppe.com/de-at/news-und-events/acp-ist-authorized-surface-provider) | --          |                                       |
 | [Bechtle GmbH IT Systemhaus](https://www.bechtle.com/at-en/about-bechtle/company/bechtle-systemhouse-austria) | ✔           |                                       |
 | [CLS](https://www.cls.at/)                          | --            |                                       |
 | [Mobiletouch Austria GmbH](https://mobiletouch.at/) | --           |                                       |
@@ -112,7 +112,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [The Rent Company](https://rentcompany.be/) | ?           |                                       |
+| [The Rent Company](https://rentcompany.be/) | --           |                                       |
 
 #### Denmark
 
@@ -135,7 +135,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Bechtle](https://www.bechtle.com/)    | --           |                                       |
 | [Computacenter](https://www.computacenter.com/) | ✔        |                                       |
 | [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
-| [Hemmersbach](https://www.hemmersbach.com/fieldservices)) | ✔       | Onsite repair requires high volume.   |
+| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       | Onsite repair requires high volume.   |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
 | [Ratiodata](https://www.ratiodata.de/) | --          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
@@ -174,13 +174,13 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Centerprise](https://www.centerprise.co.uk/) | --        |                                       |
 | [CDW](https://www.uk.cdw.com/)          | --           |                                       |
 | [Class Technology Solutions](https://www.easy4u.school/) | -- |                                       |
-| [Computacenter](https://www.computacenter.com/) | ?       |                                       |
+| [Computacenter](https://www.computacenter.com/) | --       |                                       |
 | [Currys](https://www.currys.co.uk/services/repairs-maintenance/tech-repairs/computer-repair.html) | --       | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services    |
 | [DXC Technology (UK)](https://dxc.com/uk/) | ✔          | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                        |
 | [HybrIT](https://www.hybrit.co.uk/)     | ✔             |                                       |
-| [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|?       |                                       |
-| [Specialist Computer Centre](https://www.scc.com/)|?     |                                       |
-| [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | n/a |                                       |
+| [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|--       |                                       |
+| [Specialist Computer Centre](https://www.scc.com/)|--    |                                       |
+| [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | -- |                                       |
 | [Westcoast](https://www.westcoast.co.uk/) | --          |                                       |
 | [XMA](https://www.xma.co.uk/)           | ✔             |                                       |
 | [Zones](https://uk.zones.com/)          | --           |                                       |
@@ -198,8 +198,8 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |------------------------------------|---------------|----------------------------------------|
 | [ASI solutions](https://www.asi.com.au/) | ✔         |                                       |
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
-| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices)) |✔            | Onsite repair requires high volume.   |
-| [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | Consumer ASP, walk-in services.       |
+| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | Onsite repair requires high volume.   |
+| [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
 | [Stott & Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
 | [Winthrop](https://www.winaust.com.au/) | ✔         |                                       |
@@ -229,7 +229,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-|  [Gownet Co., Ltd](https://surface.gownet.com/) | -- |  Gownet offers Consumer & Commercial ASP services.                                     |
+|  [Gownet Co., Ltd](https://surface.gownet.com/) | -- |  [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services. Also offers [Commercial ASP](#consumer-asps-vs-commercial-asps) services.                                    |
 
 #### Taiwan
 
