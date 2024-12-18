@@ -71,6 +71,8 @@ appliesto:
 
 ### 発送しないアクセサリについて
 
+:::image type="content" source="images/device-icons.png" alt-text="Images of Surface accessories with red prohibition signs indicating these items should not be included when returning a Surface device for service.":::
+
 Microsoft サポートから特に指示がない限り、以下のアクセサリは**発送しないでください**:  
 - Surface タイプ カバー、SIM カード、メモリ カード  
 - Surface 電源アダプター、Surface Dock  
