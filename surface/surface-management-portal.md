@@ -84,7 +84,7 @@ The Surface Management Portal provides visibility into support activity and the 
 
 :::image type="content" source="images/surface-management-portal/surface-management-portal-support.png" lightbox="/surface/images/surface-management-portal/surface-management-portal-support.png" alt-text="Screenshot that shows where to submit a new support request on the Surface Management Portal.":::
 
-This video walks through creating and managing service orders and support requests in the Surface Management Portal, providing visibility into device support activity, warranty details, and service options:
+- **Video demo.** See how to create and manage service orders and support requests with visibility into device support activity, warranty details, and service options:
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=59a56707-db5e-41d9-801f-01be44e120f0]
 
