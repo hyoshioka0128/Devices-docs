@@ -26,7 +26,6 @@ With Surface portals, you can:
 - Monitor the health of all your Surface devices and get notifications about any unusual device status, which can help reduce IT costs.
 - Access a unified interface for Surface device management tasks.
 
-
 ## Video demo
 
 See how the Surface Management Portal and Surface Support Portal can boost efficiency for managing Surface devices, monitoring compliance, and streamlining support:<br><br>
