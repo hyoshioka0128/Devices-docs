@@ -1,12 +1,12 @@
 ---
 title: Surface Management Portal  
-description: Manage, monitor, and maintain Surface devices efficiently with the Surface Management Portal in Microsoft Intune Admin Center. 
+description: Streamline Surface device management and support with the Surface Management Portal, integrated into the Microsoft Intune Admin Center. 
 ms.service: surface  
 ms.localizationpriority: medium  
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 09/16/2024  
+ms.date: 12/17/2024  
 ms.reviewer: rohitmannan  
 manager: frankbu  
 appliesto:  
@@ -25,6 +25,12 @@ With the Surface Management Portal, you can:
 - Monitor the status of each device, including warranty expirations and active support requests.
 - Centralize Surface-specific device administration in a single environment.
 - Automatically access comprehensive information from your Intune-enrolled Surface devices, which flows into the Surface Management Portal when users sign in for the first time.
+
+## Video demo
+
+See how the Surface Management Portal helps make IT admins more efficient by streamlining device management, warranty tracking, support requests, IT tools, and carbon emissions insights:<br><br>
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=60537474-14d6-4b54-9828-11f9663a3c3d]
 
 ## Access Surface Management Portal
 
@@ -77,6 +83,10 @@ Managing the warranty status of each device helps you stay on top of expiring wa
 The Surface Management Portal provides visibility into support activity and the status of each request.
 
 :::image type="content" source="images/surface-management-portal/surface-management-portal-support.png" lightbox="/surface/images/surface-management-portal/surface-management-portal-support.png" alt-text="Screenshot that shows where to submit a new support request on the Surface Management Portal.":::
+
+- **Video demo.** Learn how to create and manage service orders and support requests with visibility into device support activity, warranty details, and service options:
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=59a56707-db5e-41d9-801f-01be44e120f0]
 
 To create and submit new requests for one or more devices:
 
