@@ -1,6 +1,6 @@
 ---
 title: Surface repair by Microsoft Authorized Service Providers
-description: Discover how Microsoft ASPs offer Surface repairs using genuine parts & direct support, collaborating closely with Microsoft for quality service.
+description: Discover how Microsoft ASPs offer Surface repairs using genuine parts &amp; direct support, collaborating closely with Microsoft for quality service.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
@@ -31,9 +31,9 @@ Non-Reseller ASPs, as noted on this page, partner with Resellers as non-competin
 
 ### Consumer ASPs vs. Commercial ASPs
 
-- **Consumer ASPs**: Consumer Authorized Service Providers (ASPs) are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices but are primarily oriented toward consumer-grade repairs. These providers may also have limitations in handling large-scale commercial service needs.
+- **Consumer ASPs** are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices but are primarily oriented toward consumer-grade repairs. These providers may also have limitations in handling large-scale commercial service needs.
 
-- **Commercial ASPs**: Commercial Authorized Service Providers (ASPs) specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They may also provide onsite repair options for large-scale deployments or managed service agreements.
+- **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They may also provide onsite repair options for large-scale deployments or managed service agreements.
 
 ## Global ASP network
 
@@ -53,7 +53,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                  | ✔             |                                       |
 | [Converge Technology Solutions](https://convergetp.com/) | ✔           |                                       |
 | [Coreio](https://www.coreio.com/)                      | ✔             |                                       |
-| [DXC Canada](https://dxc.com/ca/en)|         --     |[Non-Reseller ASP](#reseller-vs-non-reseller-asps)|
+| [DXC Canada](https://dxc.com/ca/en)|         --     |[Non-Reseller ASP](#reseller-vs-non-reseller-asps)         |
 | [Insight](https://ca.insight.com/en_CA/home.html)       | --            |                                       |
 | [IT Mission](https://itmission.com/)                   | --            |                                       |
 | [Microserve](https://www.microserve.ca/)               | ✔             |                                       |
@@ -80,7 +80,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Insight](https://www.insight.com/)                      | --           |                                       |
 | [Integration Technologies Group](https://www.itgonline.com/) | ✔       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                      |
 | [IT savvy](https://www.itsavvy.com/)                     | --           |                                       |
-| [MCPC](https://www.mcpc.com/)                            | --           |                                       |
+| [MCPC](https://www.mcpc.com/)                            | ✔           |                                       |
 | [MicroK12](https://microk12.com/)                        | ✔           | Onsite repair available case-by-case. |
 | [Mobile ME IT](https://mobilemeit.com/)                  | --           |                                       |
 | [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔ |
@@ -89,6 +89,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Sterling](https://sterling.com/)                        | --           |                                       |
 | [TD SYNNEX](https://www.synnexcorp.com/us/)              | --           |                                       |
 | [Trafera](https://www.trafera.com/)                      | --           |                                       |
+| [uBreakiFix](https://ubreakifix.com/repairs)             | --           | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                                         |
 | [UDT](https://udtonline.com/)                            | --           |                                       |
 | [Zones](https://www.zones.com/site/home/index.html)      | --           |                                       |
 
@@ -137,7 +138,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
 | [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       | Onsite repair requires high volume.   |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
-| [Ratiodata](https://www.ratiodata.de/) | --          |                                       |
+| [Ratiodata](https://www.ratiodata.de/) | ✔          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
 
 #### Netherlands
@@ -151,7 +152,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface) | ✔ |                                       |
+| [Valorista](https://valorista.com/servicio-tecnico-oficial-microsoft-surface) | -- |                                       |
 
 #### Switzerland
 
@@ -176,13 +177,13 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [Class Technology Solutions](https://www.easy4u.school/) | -- |                                       |
 | [Computacenter](https://www.computacenter.com/) | --       |                                       |
 | [Currys](https://www.currys.co.uk/services/repairs-maintenance/tech-repairs/computer-repair.html) | --       | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services    |
-| [DXC Technology (UK)](https://dxc.com/uk/) | ✔          | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                        |
+| [DXC Technology (UK)](https://dxc.com/uk/) | --          | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                        |
 | [HybrIT](https://www.hybrit.co.uk/)     | ✔             |                                       |
 | [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|--       |                                       |
 | [Specialist Computer Centre](https://www.scc.com/)|--    |                                       |
 | [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | -- |                                       |
 | [Westcoast](https://www.westcoast.co.uk/) | --          |                                       |
-| [XMA](https://www.xma.co.uk/)           | ✔             |                                       |
+| [XMA](https://www.xma.co.uk/)           | --             |                                       |
 | [Zones](https://uk.zones.com/)          | --           |                                       |
 
 </details>
@@ -196,12 +197,13 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [ASI solutions](https://www.asi.com.au/) | ✔         |                                       |
+| [ASI solutions](https://www.asi.com.au/) | --         |                                       |
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
+| [Harvey Norman](https://www.harveynorman.com.au/techteam) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | Onsite repair requires high volume.   |
 | [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
-| [Stott & Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
+| [Stott &amp; Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
 | [Winthrop](https://www.winaust.com.au/) | ✔         |                                       |
 
 #### China
@@ -237,8 +239,8 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [BYTE International](https://www.bestyield.com/) | ✔ |                                       |
-| [Hope Computers](https://asp.hope.tw/)| ✔          |                                       |
+| [BYTE International (百事益國際)](https://www.bestyield.com/) | ✔ |                                       |
+| [Hope Computers (赫普電腦)](https://asp.hope.tw/)| ✔          |                                       |
 
 </details>
 
