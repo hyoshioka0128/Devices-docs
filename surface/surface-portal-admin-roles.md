@@ -21,6 +21,8 @@ Microsoft provides a range of built-in administrator roles designed for managing
 
 ## Video demo
 
+This video explains the licensing requirements and administrator roles needed to effectively access and manage Surface devices through the Surface Management Portal and Surface Support Portal:
+
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=e7e56c72-2567-4a31-b0af-c71c7dcdb3d1]
 
 ## Before you begin
