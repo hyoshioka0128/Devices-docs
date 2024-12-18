@@ -27,7 +27,7 @@ All authorized service providers (ASPs) offer **depot repair**, while some also 
 
 ### Reseller vs. Non-Reseller ASPs
 
-Non-Reseller ASPs (designated by an asterisk * on this page) partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
+Non-Reseller ASPs, as noted on this page, partner with Resellers as non-competing entities, focusing solely on providing repair services. This distinction ensures that Resellers can collaborate comfortably with Non-Reseller ASPs without concerns about competition. Resellers have the flexibility to either white label the Non-Reseller ASP repair services or have ASPs work directly with customers, depending on the business arrangement. This partnership model supports seamless repair services while preserving the Reseller's relationship with the customer.
 
 ### Consumer ASPs vs. Commercial ASPs
 
@@ -53,6 +53,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                  | ✔             |                                       |
 | [Converge Technology Solutions](https://convergetp.com/) | ✔           |                                       |
 | [Coreio](https://www.coreio.com/)                      | ✔             |                                       |
+| [DXC Canada](https://dxc.com/ca/en)|     |     --     |[Non-Reseller ASP](#reseller-vs-non-reseller-asps)|
 | [Insight](https://ca.insight.com/en_CA/home.html)       | --            |                                       |
 | [IT Mission](https://itmission.com/)                   | --            |                                       |
 | [Microserve](https://www.microserve.ca/)               | ✔             |                                       |
@@ -72,13 +73,12 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Coreio](https://www.coreio.com/)                        | ✔           |                                       |
 | [DHE](https://www.dhecs.com/)                            | ✔           |                                       |
 | [DI Technology Group Inc](https://store.dataimpressions.com/) | --     |                                       |
-| [Duke Computer Repair]()                     | --            |                                       |
-| [DXC Technology](https://dxc.com/us)                     | --           | Serves Microsoft employees only.      |
-| [FedEx](https://www.fedex.com/global/choose-location.html) | --         | Self-maintainer, internal only.       |
+| [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/)                     | --            |                                       |
+| [DXC Technology](https://dxc.com/us)                     | --           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)     |
 | [GlobalAsset](https://globalassetonline.com/)             | --           |                                       |
 | [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)| ✔            | Onsite repair requires high volume (1000+ devices). |
 | [Insight](https://www.insight.com/)                      | --           |                                       |
-| [Integration Technologies Group](https://www.itgonline.com/) | ✔       |                                       |
+| [Integration Technologies Group](https://www.itgonline.com/) | ✔       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                      |
 | [IT savvy](https://www.itsavvy.com/)                     | --           |                                       |
 | [MCPC](https://www.mcpc.com/)                            | --           |                                       |
 | [MicroK12](https://microk12.com/)                        | ✔           | Onsite repair available case-by-case. |
@@ -124,7 +124,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [D4B](https://digital4business.fr/)    | --           |                                       |
+| [D4B](https://digital4business.fr/)    | --           |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                     |
 | [Econocom](https://www.econocom.com/)  | ✔           |                                       |
 
 #### Germany
@@ -134,7 +134,7 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [API](https://www.api.de)              | --           |                                       |
 | [Bechtle](https://www.bechtle.com/)    | --           |                                       |
 | [Computacenter](https://www.computacenter.com/) | ✔        |                                       |
-| [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ? |                                       |
+| [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
 | [Hemmersbach](https://www.hemmersbach.com/fieldservices)) | ✔       | Onsite repair requires high volume.   |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
 | [Ratiodata](https://www.ratiodata.de/) | --          |                                       |
@@ -175,8 +175,8 @@ EMEA offers a variety of ASPs supporting local repair services with genuine Micr
 | [CDW](https://www.uk.cdw.com/)          | --           |                                       |
 | [Class Technology Solutions](https://www.easy4u.school/) | -- |                                       |
 | [Computacenter](https://www.computacenter.com/) | ?       |                                       |
-| [Currys](https://www.currys.co.uk/store-finder) | --       | Consumer ASP, walk-in services.       |
-| [DXC Technology (UK)](https://dxc.com/uk/) | ✔          |                                       |
+| [Currys](https://www.currys.co.uk/services/repairs-maintenance/tech-repairs/computer-repair.html) | --       | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services    |
+| [DXC Technology (UK)](https://dxc.com/uk/) | ✔          | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                        |
 | [HybrIT](https://www.hybrit.co.uk/)     | ✔             |                                       |
 | [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|?       |                                       |
 | [Specialist Computer Centre](https://www.scc.com/)|?     |                                       |
@@ -208,21 +208,21 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | Consumer ASP.                         |
+| [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                          |
 | [Double Rise (倍升互联)](https://www.doublerise.com/Microsoft.html)| -- |                                       |
 
 #### Japan
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | --  | Consumer ASP, walk-in services.       |
-| [GSS](https://www.gssltd.co.jp/surface/) | --       |                                       |
+| [Bic Camera](https://www.biccamera.co.jp/support/surface_repair/) | --  | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services        |
+| [GSS](https://www.gssltd.co.jp/surface/) | --       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                       |
 
 #### New Zealand
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
-| [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)|-- |                                       |
+| [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)|-- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                     |
 | [The Laptop Company](https://www.laptop.co.nz/) | --            |                                       |
 
 #### South Korea
