@@ -28,7 +28,7 @@ With the Surface Management Portal, you can:
 
 ## Video demo
 
-See how the Surface Management Portal helps make IT admins more efficient by streamlining device management, warranty tracking, support requests, IT tools, and carbon emissions insights.:<br>
+See how the Surface Management Portal helps make IT admins more efficient by streamlining device management, warranty tracking, support requests, IT tools, and carbon emissions insights.:<br><br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=60537474-14d6-4b54-9828-11f9663a3c3d]
 
@@ -84,7 +84,7 @@ The Surface Management Portal provides visibility into support activity and the 
 
 :::image type="content" source="images/surface-management-portal/surface-management-portal-support.png" lightbox="/surface/images/surface-management-portal/surface-management-portal-support.png" alt-text="Screenshot that shows where to submit a new support request on the Surface Management Portal.":::
 
-- **Video demo.** See how to create and manage service orders and support requests with visibility into device support activity, warranty details, and service options:
+- **Video demo.** Learn how to create and manage service orders and support requests with visibility into device support activity, warranty details, and service options:
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=59a56707-db5e-41d9-801f-01be44e120f0]
 

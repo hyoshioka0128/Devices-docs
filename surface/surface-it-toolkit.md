@@ -22,7 +22,7 @@ The Surface IT Toolkit ensures you're using the latest version thanks to [MSIX](
 
 ## Video demo
 
-See how the Surface IT Toolkit provides essential tools to configure, secure, and manage Surface devices efficiently:
+See how the Surface IT Toolkit provides essential tools to configure, secure, and manage Surface devices efficiently:<br><br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=55687166-8581-4caf-bfd2-2a583f28fc93]
 
