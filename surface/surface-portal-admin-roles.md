@@ -19,6 +19,10 @@ ms.collection: essentials-manage
 
 Microsoft provides a range of built-in administrator roles designed for managing Surface devices through the [Surface Management Portal](surface-management-portal.md) and the [Surface Support Portal](surface-support-portal.md). These roles are tailored to facilitate efficient management and maintenance of Surface hardware within your organization.
 
+## Video demo
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=e7e56c72-2567-4a31-b0af-c71c7dcdb3d1]
+
 ## Before you begin
 
 Before starting the setup, you must assign at least one administrative role to manage the portals effectively. 
