@@ -28,7 +28,7 @@ With the Surface Management Portal, you can:
 
 ## Video demo
 
-See how the Surface Management Portal helps make IT admins more efficient by streamlining device management, warranty tracking, support requests, IT tools, and carbon emissions insights.:<br><br>
+See how the Surface Management Portal helps make IT admins more efficient by streamlining device management, warranty tracking, support requests, IT tools, and carbon emissions insights:<br><br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=60537474-14d6-4b54-9828-11f9663a3c3d]
 
