@@ -76,12 +76,12 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/)                     | --            |                                       |
 | [DXC Technology](https://dxc.com/us)                     | --           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)     |
 | [GlobalAsset](https://globalassetonline.com/)             | --           |                                       |
-| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)| ✔            | Onsite repair requires high volume (1000+ devices). |
+| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)| ✔            |                                 |
 | [Insight](https://www.insight.com/)                      | --           |                                       |
 | [Integration Technologies Group](https://www.itgonline.com/) | ✔       |  [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                      |
 | [IT savvy](https://www.itsavvy.com/)                     | --           |                                       |
 | [MCPC](https://www.mcpc.com/)                            | ✔           |                                       |
-| [MicroK12](https://microk12.com/)                        | ✔           | Onsite repair available case-by-case. |
+| [MicroK12](https://microk12.com/)                        | ✔           |                                       |
 | [Mobile ME IT](https://mobilemeit.com/)                  | --           |                                       |
 | [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔ |
 | [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔ |
@@ -136,7 +136,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [Bechtle](https://www.bechtle.com/)    | --           |                                       |
 | [Computacenter](https://www.computacenter.com/) | ✔        |                                       |
 | [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
-| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       | Onsite repair requires high volume.   |
+| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       |    |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
 | [Ratiodata](https://www.ratiodata.de/) | ✔          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
@@ -200,7 +200,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [ASI solutions](https://www.asi.com.au/) | --         |                                       |
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
 | [Harvey Norman](https://www.harveynorman.com.au/techteam) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
-| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | Onsite repair requires high volume.   |
+| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            |                                        |
 | [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
 | [Stott &amp; Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
