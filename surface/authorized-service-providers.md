@@ -117,16 +117,18 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 #### Denmark
 
-| Authorized Service Provider        | Onsite Repair | Notes                                  |
-|------------------------------------|---------------|----------------------------------------|
-| [Atea A/S](https://www.atea.dk/)   | ✔             |                                       |
+
+| Authorized Service Provider                                      | Onsite Repair | Notes                                   |
+|------------------------------------------------------------------|---------------|-----------------------------------------|
+| [Atea A/S](https://www.atea.dk/)                                 | ✔             |                                         |
+
 
 #### France
 
-| Authorized Service Provider        | Onsite Repair | Notes                                  |
-|------------------------------------|---------------|----------------------------------------|
-| [D4B](https://digital4business.fr/)    | --           |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                     |
-| [Econocom](https://www.econocom.com/)  | ✔           |                                       |
+| Authorized Service Provider                                      | Onsite Repair | Notes                                   |
+|------------------------------------------------------------------|---------------|-----------------------------------------|
+| [D4B](https://digital4business.fr/)                              | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [Econocom](https://www.econocom.com/)                            | ✔             |                                         |
 
 #### Germany
 
