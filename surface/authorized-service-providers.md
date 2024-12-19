@@ -53,7 +53,6 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                            | ✔             |                                         |
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
-| [DXC Canada](https://dxc.com/ca/en)                              | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Insight](https://ca.insight.com/en_CA/home.html)                | --            |                                         |
 | [IT Mission](https://itmission.com/)                             | --            |                                         |
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
