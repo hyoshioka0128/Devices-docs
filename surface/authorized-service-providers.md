@@ -84,7 +84,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [MicroK12](https://microk12.com/)                                | ✔             |                                         |
 | [Mobile ME IT](https://mobilemeit.com/)                          | --            |                                         |
 | [Netsync Network Solutions](https://www.netsync.com/services/managed-services/microsoft-asp/) | ✔   |                                         |
-| [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔   |                                         |
+| [New York Computer Help](https://www.newyorkcomputerhelp.com/microsoft-surface-repair-provider-in-new-york/) | ✔   | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                         |
 | [ProTech Computer Systems, Inc](https://www.protsys.com/)        | --            |                                         |
 | [Sterling](https://sterling.com/)                                | --            |                                         |
 | [TD SYNNEX](https://www.synnexcorp.com/us/)                      | --            |                                         |
@@ -107,7 +107,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [ACP IT Solutions GMbh](https://www.acp-gruppe.com/de-at/news-und-events/acp-ist-authorized-surface-provider) | --          |                                       |
 | [Bechtle GmbH IT Systemhaus](https://www.bechtle.com/at-en/about-bechtle/company/bechtle-systemhouse-austria) | ✔           |                                       |
 | [CLS](https://www.cls.at/)                          | --            |                                       |
-| [Mobiletouch Austria GmbH](https://mobiletouch.at/) | --           |                                       |
+| [Mobiletouch Austria GmbH](https://mobiletouch.at/) | --           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)|
 
 #### Belgium
 
@@ -183,7 +183,7 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [HybrIT](https://www.hybrit.co.uk/)     | ✔             |                                       |
 | [Jigsaw Systems Ltd](https://www.jigsaw24.com/partnerships/microsoft)|--       |                                       |
 | [Specialist Computer Centre](https://www.scc.com/)|--    |                                       |
-| [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | -- |                                       |
+| [TMT First Limited](https://www.tmtfirst.co.uk/microsoft-surface-repairs/) | -- | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Westcoast](https://www.westcoast.co.uk/) | --          |                                       |
 | [XMA](https://www.xma.co.uk/)           | --             |                                       |
 | [Zones](https://uk.zones.com/)          | --           |                                       |
