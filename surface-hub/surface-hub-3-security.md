@@ -44,8 +44,7 @@ The default local admin account is a well-known entry point for malicious actors
 
 The Unified Extensible Firmware Interface (UEFI) is an advanced firmware interface designed to replace the traditional BIOS (Basic Input/Output System), providing enhanced features like improved security, faster boot times, and support for larger hard drives in modern Windows operating systems. By setting a UEFI password, you add an extra layer of security, preventing unauthorized users from changing the device's firmware settings. Set a strong UEFI password and store it in a secure location.
 
-Use the [Surface IT Toolkit](https://www.microsoft.com/download/confirmation.aspx?id=46703) to set a UEFI password with 
-[Surface Enterprise Management Mode (SEMM)](/surface/surface-enterprise-management-mode).
+Use the [Surface IT Toolkit](/surface/surface-it-toolkit.md) to set a UEFI password with [Surface Enterprise Management Mode (SEMM)](/surface/surface-enterprise-management-mode).
 
 
 ### Enroll Surface Hub in SEMM
