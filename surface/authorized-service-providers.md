@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/18/2024
+ms.date: 12/19/2024
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -53,6 +53,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                            | ✔             |                                         |
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
+| [Hemmersbach Canada Ltd.](https://www.hemmersbach.com/fieldservices) | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Insight](https://ca.insight.com/en_CA/home.html)                | --            |                                         |
 | [IT Mission](https://itmission.com/)                             | --            |                                         |
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
@@ -75,7 +76,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/) | --     |                                         |
 | [DXC Technology](https://dxc.com/us)                             | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [GlobalAsset](https://globalassetonline.com/)                    | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             |                                         |
+| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)  |
 | [Insight](https://www.insight.com/)                              | --            |                                         |
 | [Integration Technologies Group](https://www.itgonline.com/)     | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [IT savvy](https://www.itsavvy.com/)                             | --            |                                         |
@@ -137,8 +138,9 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [Bechtle](https://www.bechtle.com/)    | --           |                                       |
 | [Computacenter](https://www.computacenter.com/) | ✔        |                                       |
 | [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
-| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       |    |
+| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)   |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
+| [MR Datentechnik Vertriebs- und Service GmbH](https://mr-daten.de/mr-partnerwelt/)  |           |                                       |
 | [Ratiodata](https://www.ratiodata.de/) | ✔          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
 
@@ -201,7 +203,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [ASI solutions](https://www.asi.com.au/) | --         |                                       |
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
 | [Harvey Norman](https://www.harveynorman.com.au/techteam) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
-| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            |                                        |
+| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)         |
 | [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
 | [Stott &amp; Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
@@ -229,6 +231,14 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 |------------------------------------|---------------|----------------------------------------|
 | [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)|-- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                     |
 | [The Laptop Company](https://www.laptop.co.nz/) | --            |                                       |
+
+#### Singapore
+
+| Authorized Service Provider        | Onsite Repair | Notes                                  |
+|------------------------------------|---------------|----------------------------------------|
+| [JK Technology Pte Ltd](https://jktech.com.sg/pages/microsoft-authorised-service-provider) | -- |                                      |
+| [Hemmersbach Singapore Pte. Ltd](https://www.hemmersbach.com/fieldservices) | -- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                    |
+
 
 #### South Korea
 
