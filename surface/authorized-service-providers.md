@@ -31,7 +31,7 @@ Non-Reseller ASPs, as noted on this page, partner with Resellers as noncompeting
 
 ### Consumer ASPs vs. Commercial ASPs
 
-- **Consumer ASPs** are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices but are primarily oriented toward consumer-grade repairs. These providers might also have limitations in handling large-scale commercial service needs.
+- **Consumer ASPs** are repair partners with physical stores where individual customers can bring devices for service. They typically support repairs for both consumer and commercial devices. These providers might also have limitations in handling large-scale commercial service needs.
 
 - **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They might also provide onsite repair options for large-scale deployments or managed service agreements.
 
