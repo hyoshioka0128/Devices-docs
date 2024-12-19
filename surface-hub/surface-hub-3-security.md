@@ -46,7 +46,6 @@ The Unified Extensible Firmware Interface (UEFI) is an advanced firmware interfa
 
 Use the [Surface IT Toolkit](/surface/surface-it-toolkit.md) to set a UEFI password with [Surface Enterprise Management Mode (SEMM)](/surface/surface-enterprise-management-mode).
 
-
 ### Enroll Surface Hub in SEMM
 
 You need a dedicated USB drive with at least 50 MB of storage space.  
