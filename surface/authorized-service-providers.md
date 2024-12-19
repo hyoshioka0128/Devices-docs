@@ -75,7 +75,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [DI Technology Group Inc](https://store.dataimpressions.com/)    | --            |                                         |
 | [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/) | --     |                                         |
 | [DXC Technology](https://dxc.com/us)                             | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [GlobalAsset](https://globalassetonline.com/)                    | --            |                                         |
+| [GlobalAsset](https://globalassetonline.com/)                    | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             |                                         |
 | [Insight](https://www.insight.com/)                              | --            |                                         |
 | [Integration Technologies Group](https://www.itgonline.com/)     | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
