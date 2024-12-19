@@ -1,12 +1,12 @@
 ---
 title: Surface repair by Microsoft Authorized Service Providers
-description: Discover how Microsoft ASPs offer Surface repairs using genuine parts &amp; direct support, collaborating closely with Microsoft for quality service.
+description: Discover how Microsoft ASPs offer Surface repairs using genuine parts and direct support, collaborating closely with Microsoft for quality service.
 ms.service: surface
 ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 12/18/2024
+ms.date: 12/19/2024
 ms.reviewer: 
 manager: frankbu
 appliesto:
@@ -16,13 +16,13 @@ appliesto:
 
 # Surface repair by Microsoft Authorized Service Providers
 
-We're committed to delivering exceptional service and support by continuously expanding our network of Authorized Service Providers (ASPs). These trusted partners work directly with Microsoft to resolve issues with your Microsoft devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
+We're committed to delivering exceptional service and support by continuously expanding our network of Authorized Service Providers (ASPs). These trusted partners work directly with Microsoft to address repair needs for your Surface devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
 
 ## How it works
 
-All authorized service providers (ASPs) offer **depot repair**, while some also provide the option for **onsite repair** based on availability and your location:
+All authorized service providers (ASPs) offer **depot repair**, while some also provide the option for **onsite repair**, depending on availability and location:
 
-- **Onsite repair (available at select ASPs):** A skilled technician comes to your location to evaluate and repair the device, minimizing downtime.  
+- **Onsite repair (available at select ASPs):** A skilled technician visits your location to evaluate and, if possible, repair the device, minimizing downtime.  
 - **Depot repair (available at all ASPs):** You make arrangements to transport your device to their repair center, where it undergoes inspection and repair by an expert technician. Once the repair is complete, the device is returned to you.
 
 ### Reseller vs. Non-Reseller ASPs
@@ -35,7 +35,7 @@ Non-Reseller ASPs, as noted on this page, partner with Resellers as noncompeting
 
 - **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They might also provide onsite repair options for large-scale deployments or managed service agreements.
 
-## Global ASP network
+### Global ASP network
 
 The growing ASP network consists of over 160 locations and continues to expand as new partners are onboarded. Select your region for available ASPs:
 
@@ -53,6 +53,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                            | ✔             |                                         |
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
+| [Hemmersbach Canada Ltd.](https://www.hemmersbach.com/fieldservices) | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Insight](https://ca.insight.com/en_CA/home.html)                | --            |                                         |
 | [IT Mission](https://itmission.com/)                             | --            |                                         |
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
@@ -75,7 +76,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Duke Computer Repair](https://www.dukestores.duke.edu/index.php/computer-repair/) | --     |                                         |
 | [DXC Technology](https://dxc.com/us)                             | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [GlobalAsset](https://globalassetonline.com/)                    | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
-| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             |                                         |
+| [Hemmersbach US Ltd](https://www.hemmersbach.com/fieldservices)  | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)  |
 | [Insight](https://www.insight.com/)                              | --            |                                         |
 | [Integration Technologies Group](https://www.itgonline.com/)     | ✔             | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [IT savvy](https://www.itsavvy.com/)                             | --            |                                         |
@@ -116,11 +117,9 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 #### Denmark
 
-
 | Authorized Service Provider                                      | Onsite Repair | Notes                                   |
 |------------------------------------------------------------------|---------------|-----------------------------------------|
 | [Atea A/S](https://www.atea.dk/)                                 | ✔             |                                         |
-
 
 #### France
 
@@ -137,8 +136,9 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 | [Bechtle](https://www.bechtle.com/)    | --           |                                       |
 | [Computacenter](https://www.computacenter.com/) | ✔        |                                       |
 | [Energy Net Gmbh](https://www.energy-net.de/services/maintenance-repair/microsoft-asp/) | ✔ |                                       |
-| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       |    |
+| [Hemmersbach](https://www.hemmersbach.com/fieldservices) | ✔       | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)   |
 | [MetaComp](https://www.metacomp.de/)   | ✔           |                                       |
+| [MR Datentechnik Vertriebs- und Service GmbH](https://mr-daten.de/mr-partnerwelt/)  |           |                                       |
 | [Ratiodata](https://www.ratiodata.de/) | ✔          |                                       |
 | [Think About It](https://think-about.it/) | --       |                                       |
 
@@ -201,7 +201,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [ASI solutions](https://www.asi.com.au/) | --         |                                       |
 | [Comp Now](https://www.compnow.com.au/) | ✔         |                                       |
 | [Harvey Norman](https://www.harveynorman.com.au/techteam) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
-| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            |                                        |
+| [Hemmersbach Australia](https://www.hemmersbach.com/fieldservices) |✔            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps)         |
 | [JB Hi-Fi](https://www.jbhifi.business/) | ✔         | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services       |
 | [KEH Partnership](https://technology.theschoollocker.com.au/) | -- |                                       |
 | [Stott &amp; Hoare](https://www.stotthoare.com.au/) | ✔     |                                       |
@@ -209,12 +209,10 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 #### China
 
-
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
 | [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                          |
 | [Double Rise (倍升互联)](https://www.doublerise.com/Microsoft.html)| -- |                                       |
-
 
 #### Japan
 
@@ -230,6 +228,13 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [Service Plus Group Limited](https://serviceplus.co.nz/brands/microsoft-surface-authorised-repairs/)|-- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                     |
 | [The Laptop Company](https://www.laptop.co.nz/) | --            |                                       |
 
+#### Singapore
+
+| Authorized Service Provider        | Onsite Repair | Notes                                  |
+|------------------------------------|---------------|----------------------------------------|
+| [JK Technology Pte Ltd](https://jktech.com.sg/pages/microsoft-authorised-service-provider) | -- |                                      |
+| [Hemmersbach Singapore Pte. Ltd](https://www.hemmersbach.com/fieldservices) | -- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                    |
+
 #### South Korea
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
@@ -244,4 +249,3 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [Hope Computers (赫普電腦)](https://asp.hope.tw/)| ✔          |                                       |
 
 </details>
-
