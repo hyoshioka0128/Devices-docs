@@ -35,7 +35,7 @@ Non-Reseller ASPs, as noted on this page, partner with Resellers as noncompeting
 
 - **Commercial ASPs** specialize in working with enterprise customers, schools, federal organizations, and small-to-medium businesses. These providers are equipped to handle high-volume repair needs and offer services tailored to the unique requirements of commercial segments. They might also provide onsite repair options for large-scale deployments or managed service agreements.
 
-## Global ASP network
+### Global ASP network
 
 The growing ASP network consists of over 160 locations and continues to expand as new partners are onboarded. Select your region for available ASPs:
 
@@ -117,11 +117,9 @@ EMEA offers many ASPs supporting local repair services with genuine Microsoft pa
 
 #### Denmark
 
-
 | Authorized Service Provider                                      | Onsite Repair | Notes                                   |
 |------------------------------------------------------------------|---------------|-----------------------------------------|
 | [Atea A/S](https://www.atea.dk/)                                 | ✔             |                                         |
-
 
 #### France
 
@@ -211,12 +209,10 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 
 #### China
 
-
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
 | [Digital China (神州数码)](https://www.digitalchina.com/)| ✔    | [Consumer ASP](#consumer-asps-vs-commercial-asps) with walk-in services                          |
 | [Double Rise (倍升互联)](https://www.doublerise.com/Microsoft.html)| -- |                                       |
-
 
 #### Japan
 
@@ -239,7 +235,6 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [JK Technology Pte Ltd](https://jktech.com.sg/pages/microsoft-authorised-service-provider) | -- |                                      |
 | [Hemmersbach Singapore Pte. Ltd](https://www.hemmersbach.com/fieldservices) | -- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                    |
 
-
 #### South Korea
 
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
@@ -254,4 +249,3 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | [Hope Computers (赫普電腦)](https://asp.hope.tw/)| ✔          |                                       |
 
 </details>
-
