@@ -18,6 +18,8 @@ appliesto:
 
 We're committed to delivering exceptional service and support by continuously expanding our network of Authorized Service Providers (ASPs). These trusted partners work directly with Microsoft to address repair needs for your Surface devices. All ASPs perform repairs on Microsoft’s behalf, have direct access to Microsoft support, and use genuine Microsoft parts to ensure quality and reliability.
 
+- [**Find an ASP near you**](#global-asp-network)
+
 ## How it works
 
 All authorized service providers (ASPs) offer **depot repair**, while some also provide the option for **onsite repair**, depending on availability and location:
@@ -53,7 +55,7 @@ The Americas provide extensive repair services with ASPs available in Canada and
 | [Compugen](https://www.compugen.com/)                            | ✔             |                                         |
 | [Converge Technology Solutions](https://convergetp.com/)         | ✔             |                                         |
 | [Coreio](https://www.coreio.com/)                                | ✔             |                                         |
-| [Hemmersbach Canada Ltd.](https://www.hemmersbach.com/fieldservices) | --            | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
+| [Hemmersbach Canada Ltd.](https://www.hemmersbach.com/fieldservices) | ✔           | [Non-Reseller ASP](#reseller-vs-non-reseller-asps) |
 | [Insight](https://ca.insight.com/en_CA/home.html)                | --            |                                         |
 | [IT Mission](https://itmission.com/)                             | --            |                                         |
 | [Microserve](https://www.microserve.ca/)                         | ✔             |                                         |
@@ -233,7 +235,7 @@ ASPs in the Asia Pacific region offer a mix of onsite services, meeting the need
 | Authorized Service Provider        | Onsite Repair | Notes                                  |
 |------------------------------------|---------------|----------------------------------------|
 | [JK Technology Pte Ltd](https://jktech.com.sg/pages/microsoft-authorised-service-provider) | -- |                                      |
-| [Hemmersbach Singapore Pte. Ltd](https://www.hemmersbach.com/fieldservices) | -- |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                    |
+| [Hemmersbach Singapore Pte. Ltd](https://www.hemmersbach.com/fieldservices) | ✔ |   [Non-Reseller ASP](#reseller-vs-non-reseller-asps)                                    |
 
 #### South Korea
 
