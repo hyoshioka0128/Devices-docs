@@ -147,7 +147,7 @@ For a managed approach, IT admins can disable NFC using SEMM (Surface Enterprise
 
 ### References
 
-1. NFC is only available on Wi-Fi configurations of Surface Pro 10 and Surface Pro (11th Edition).
+1. NFC is only available on commercial Wi-Fi configurations of Surface Pro 10 and Surface Pro (11th Edition). 
 
 ## Download NFC Lock Screens 
 
