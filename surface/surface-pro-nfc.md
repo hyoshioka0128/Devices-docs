@@ -22,7 +22,7 @@ Although NFC can read information stored on the magnetic stripe of a bank card, 
 We engineered NFC in Surface Pro 10 and Surface Pro (11th Edition) for enterprise customers where the primary applications of NFC technology extend to authentication, access control, and the exchange of information. These use cases are fundamental in environments that demand heightened security and streamlined operations, such as workplaces and educational institutions.
 
 > [!NOTE]
-> NFC support is available only on **commercial Wi-Fi versions** of Surface Pro 10 and Surface Pro (11th Edition) for Business. The 5G models of Surface Pro 10 and Surface Pro (11th Edition) **do not include** NFC support. The consumer Wi-Fi version of Surface Pro (11th Edition) **does not include** NFC support.
+> **NFC support is available only on commercial Wi-Fi versions** of Surface Pro 10 and Surface Pro (11th Edition) for Business. The 5G models of Surface Pro 10 and Surface Pro (11th Edition) do not include NFC support. The consumer Wi-Fi version of Surface Pro (11th Edition) does not include NFC support.
 
 ## Authenticate with NFC
 
