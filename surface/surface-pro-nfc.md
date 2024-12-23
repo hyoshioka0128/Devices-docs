@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer
 ms.author: chauncel
 ms.topic: overview
-ms.date: 09/04/2024
+ms.date: 12/20/2024
 ms.reviewer: chauncel
 manager: frankbu
 appliesto:
@@ -20,6 +20,9 @@ Near Field Communication (NFC) in commercial versions of Surface Pro 10 and Surf
 Although NFC can read information stored on the magnetic stripe of a bank card, it doesn't support payment transactions on Surface Pro 10 or Surface Pro (11th Edition).
 
 We engineered NFC in Surface Pro 10 and Surface Pro (11th Edition) for enterprise customers where the primary applications of NFC technology extend to authentication, access control, and the exchange of information. These use cases are fundamental in environments that demand heightened security and streamlined operations, such as workplaces and educational institutions.
+
+> [!NOTE]
+> **NFC support is available only on commercial Wi-Fi versions** of Surface Pro 10 and Surface Pro (11th Edition) for Business. The 5G models of Surface Pro 10 and Surface Pro (11th Edition) do not include NFC support. The consumer Wi-Fi version of Surface Pro (11th Edition) does not include NFC support.
 
 ## Authenticate with NFC
 
@@ -144,7 +147,7 @@ For a managed approach, IT admins can disable NFC using SEMM (Surface Enterprise
 
 ### References
 
-1. NFC is only available on Wi-Fi configurations of Surface Pro 10 and Surface Pro (11th Edition).
+1. NFC is only available on commercial Wi-Fi configurations of Surface Pro 10 and Surface Pro (11th Edition). 
 
 ## Download NFC Lock Screens 
 
