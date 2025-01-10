@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 11/21/2024 
+ms.date: 01/10/2025
 ms.reviewer: cchauvet  
 manager: frankbu  
 appliesto:  
@@ -36,7 +36,9 @@ If you already have access to the portal, skip to the [Prerequisites section](#p
 
 ### How to access Surface Support Portal
 
-The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center.
+The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center. To get started, check out the following video:
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0c600e9b-4b88-494a-abbd-c18f3ddbbea4]
 
 1. **Check if your organization has an existing tenant**  
    - Go to the [tenant validation page](https://aka.ms/wheres-my-tenant).  
