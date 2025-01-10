@@ -30,6 +30,12 @@ To learn more, see [Surface Support Portal delivers significant time savings for
 
 :::image type="content" source="images/surface-service-repair/m365-admincenter-repair-request.png" alt-text="Screenshot of Surface Support Portal.":::
 
+## Video demo
+
+This video provides an overview of the Surface Support Portal, showcasing its features for efficient device support and management:
+
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=9b26120e-bdd1-401f-89c6-f5481a48a6de]
+
 ## Access Surface Support Portal
 
 If you already have access to the portal, skip to the [Prerequisites section](#prerequisites).
@@ -68,7 +74,7 @@ The onboarding process includes steps to validate your organization’s Microsof
 
     > [!NOTE]  
     > The payment information links with your account, but you are not charged until you purchase a product from Microsoft. The Surface Support Portal on Microsoft 365 Admin Center does not require any subscription to access Surface support and services.
- 
+
 7. **Access the Microsoft 365 Admin Center**  
    - After completing the payment information, you will be redirected to the Admin Center homepage. Select **Finish**.  
    - Request access to the Surface Support Portal.  
