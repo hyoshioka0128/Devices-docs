@@ -32,7 +32,7 @@ To learn more, see [Surface Support Portal delivers significant time savings for
 
 ## Video demo
 
-This video provides an overview of the Surface Support Portal, showcasing its features for efficient device support and management:
+This video provides an overview of the Surface Support Portal, showcasing its features for efficient device support and management:<br><br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=9b26120e-bdd1-401f-89c6-f5481a48a6de]
 
@@ -42,7 +42,7 @@ If you already have access to the portal, skip to the [Prerequisites section](#p
 
 ### How to access Surface Support Portal
 
-The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center. To get started, check out the following video:
+The onboarding process includes steps to validate your organization’s Microsoft tenant. If your organization doesn't already have a tenant, these instructions will help you create one, ensuring seamless access to the Surface Support Portal via the Microsoft 365 Admin Center. To get started, check out the following video:<br><br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=0c600e9b-4b88-494a-abbd-c18f3ddbbea4]
 
