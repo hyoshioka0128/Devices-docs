@@ -15,15 +15,15 @@ appliesto:
 
 # Surface hardware environmental test results
 
-Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent Surface devices meet United States Military standards for ruggedness and durability of equipment under various environmental conditions including temperature, humidity, shock, vibration, and other stressors.
+Commercial Surface devices are designed to endure rigorous conditions, ensuring reliability and reducing the cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.
 
 :::image type="content" source="images/surface-family.png" alt-text="Surface device family" :::
 
-The MIL-STD-810 test standards, maintained by the US Department of Defense, help organizations evaluate how devices perform in the field. The testing program outlines multiple test methods across a range of environmental stress conditions. This is designed to test equipment limits in various conditions where it's expected to be used (environment) or transported (shocks). An independent third-party laboratory has tested the Surface devices listed below using recommended test methods.
+MIL-STD-810, maintained by the U.S. Department of Defense, provides test methods for evaluating device performance in real-world conditions. These tests assess device limits under expected operational and transport environments. Independent third-party labs conducted the tests using recommended methods for the Surface devices listed on this page.
 
 ## MIL-STD-810 test results
 
-Operational tests pass if the unit remained operational during the entire test, and non-operational tests pass if a functional verification was performed immediately after the test exposure. Tests were conducted in accordance with the MIL-STD-810 standards effective at the time of product release. Surface commercial devices, including Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2 meet the current standard, MIL-STD-810H. Earlier devices were tested under the previous standard, MIL-STD-810G.
+Operational tests pass if the unit remained operational during the entire test, and non-operational tests pass if a functional verification was performed immediately after the test exposure. Tests were conducted in accordance with the MIL-STD-810 standards effective at the time of product release. Surface commercial devices, including Surface Pro 11th Edition, Surface Pro 11th Edition 5G, Surface Pro 10 5G, Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2 meet the current standard, MIL-STD-810H. Earlier devices were tested under the previous standard, MIL-STD-810G.
 
 ## Current standard: MIL-STD-810H
 
