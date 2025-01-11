@@ -15,7 +15,7 @@ appliesto:
 
 # Surface hardware environmental test results
 
-Commercial Surface devices are designed to endure rigorous conditions, ensuring reliability and reducing the cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.
+Commercial Surface devices are built to withstand rigorous conditions that help ensure optimal reliability and lower cost of ownership. Recent models meet U.S. Military standards (MIL-STD-810H) for ruggedness and durability under various environmental conditions, including temperature, humidity, shock, vibration, and more.
 
 :::image type="content" source="images/surface-family.png" alt-text="Surface device family" :::
 
