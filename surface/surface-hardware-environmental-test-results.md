@@ -23,13 +23,13 @@ MIL-STD-810, maintained by the U.S. Department of Defense, provides test methods
 
 ## MIL-STD-810 test results
 
-Operational tests pass if the unit remained operational during the entire test, and non-operational tests pass if a functional verification was performed immediately after the test exposure. Tests were conducted in accordance with the MIL-STD-810 standards effective at the time of product release. Surface commercial devices, including Surface Pro 11th Edition, Surface Pro 11th Edition 5G, Surface Pro 10 5G, Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2 meet the current standard, MIL-STD-810H. Earlier devices were tested under the previous standard, MIL-STD-810G.
+Operational tests were deemed successful if the unit remained functional throughout the test, while non-operational tests passed if functionality was verified immediately after exposure. All tests were conducted in compliance with the MIL-STD-810 standards effective at the time of the product's release. Recent Surface commercial devices for business, including Surface Pro 11th Edition, Surface Pro 11th Edition 5G, Surface Pro 10 5G, Surface Pro 10, Surface Laptop 6, Surface Laptop Go 3, Surface Laptop Studio 2, Surface Go 4, Surface Pro 9, Surface Pro 9 with 5G, Surface Laptop 5, and Surface Laptop Go 2, meet the current MIL-STD-810H standard. Earlier devices were tested under the previous MIL-STD-810G standard.
 
 ## Current standard: MIL-STD-810H
 
 :::image type="content" source="images/surfacepro10-laptop6.png" alt-text="Surface Pro 10 and Surface Laptop 6.":::
 
-| Test                  | Surface Pro 11th Edition | Surface Pro 11th Edition 5G | Surface Pro 10 5G for Business | Surface Pro 10 | Surface Laptop 6 | Surface Laptop Go 3 | Surface Laptop Studio 2 | Surface Go 4 | Surface Pro 9 | Surface Pro 9 with 5G | Surface Laptop Go 2 |
+| Test                  | Surface Pro 11th Edition | Surface Pro 11th Edition 5G | Surface Pro 10 5G  | Surface Pro 10 | Surface Laptop 6 | Surface Laptop Go 3 | Surface Laptop Studio 2 | Surface Go 4 | Surface Pro 9 | Surface Pro 9 with 5G | Surface Laptop Go 2 |
 |----------------------------|---------------------------|-----------------------------|-------------------------------|----------------|------------------|---------------------|-------------------------|--------------|---------------|-----------------------|---------------------|
 | **Altitude Operating**     | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
 | **Altitude Storage**       | Pass                     | Pass                       | Pass                           | Pass           | Pass             | Pass                | Pass                    | Pass         | Pass          | Pass                  | Pass                |
