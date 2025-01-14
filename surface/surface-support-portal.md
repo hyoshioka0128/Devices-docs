@@ -6,7 +6,7 @@ ms.localizationpriority: medium
 author: coveminer  
 ms.author: chauncel  
 ms.topic: how-to  
-ms.date: 01/10/2025
+ms.date: 01/14/2025
 ms.reviewer: cchauvet  
 manager: frankbu  
 appliesto:  
@@ -138,7 +138,7 @@ Register your Surface devices through the Surface Support Portal to associate th
 
 ### Manage Surface device warranty and coverage
 
-Easily manage your Surface device warranties through the Surface Support Portal. You can view the coverage status of each device, track warranty timelines, and monitor the status of your service orders.
+Easily manage your Surface device warranties via the Surface Support Portal. You can view the coverage status of each device, track warranty timelines, and monitor the status of your service orders.
 
 - Select **Coverage** to view devices covered under warranty, the time remaining for each device under warranty, and related details.
 - Select **Warranty & service** to view the status of service orders.
